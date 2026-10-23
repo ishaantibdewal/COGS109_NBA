@@ -1,0 +1,21 @@
+column,type_or_unit,description,role
+player_id,identifier,NBA numeric player identifier,source
+player_name,text,Official player name,reporting only
+combine_year,integer,Year of NBA Draft Combine,"predictor metadata, defines outcome window"
+position_raw,categorical,Pre-draft combine position code,raw qualitative
+position_group,categorical,Guard / Forward / Center from first-listed combine position,qualitative predictor
+height_in,"numeric, inches",Height without shoes,Member 1
+wingspan_in,"numeric, inches",Wingspan,"Member 1, Member 3"
+standing_reach_in,"numeric, inches",Standing reach,optional exploratory
+weight_lb,"numeric, pounds",Combine weight,"Member 1, Member 3"
+vertical_max_in,"numeric, inches",Maximum vertical jump height,"Member 2, Member 3"
+vertical_standing_in,"numeric, inches",Standing vertical jump height,optional exploratory
+sprint_sec,"numeric, seconds",Three-quarter-court sprint time; smaller is faster,Member 2
+agility_sec,"numeric, seconds",Lane agility time; smaller is faster,Member 2
+bench_reps,"numeric, repetitions",Bench press repetitions,optional exploratory
+body_fat_pct,"numeric, percent",Combine body fat percentage,optional exploratory
+total_games_3yr,"numeric, games",Sum of regular-season games played in first 3 post-combine seasons,outcome denominator
+total_points_3yr,"numeric, points",Sum of regular-season points scored in first 3 post-combine seasons,outcome numerator
+seasons_played_3yr,"numeric, seasons",Count of observed NBA seasons in target window,audit
+ppg_3yr,"numeric, points/game",total_points_3yr / total_games_3yr,PRIMARY OUTCOME
+made_nba_within_3yr,binary,"1 if NBA games >0 in 3-year follow-up, otherwise 0","selection audit, not a CP1 outcome"

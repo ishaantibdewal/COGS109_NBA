@@ -1,0 +1,18 @@
+{
+  "model": "size",
+  "title": "Size and reach",
+  "member": "Member 1",
+  "initial_formula": "ppg_3yr ~ height_in + wingspan_in + weight_lb + C(position_group, Treatment(reference=\"Guard\"))",
+  "final_formula": "ppg_3yr ~ height_in + wingspan_in + weight_lb + C(position_group, Treatment(reference=\"Guard\"))",
+  "fix": "No automatic fix applied. Inspect residuals and VIF and document a justified remedy if needed.",
+  "train_n": 802,
+  "test_n": 201,
+  "test_mse": 21.25664626461618,
+  "test_r2": 0.011950334946656427,
+  "training_missing_fraction": {
+    "height_in": 0.036,
+    "wingspan_in": 0.035,
+    "weight_lb": 0.037
+  },
+  "note": "Only one held-out test evaluation after model selection/fixes on training data."
+}
