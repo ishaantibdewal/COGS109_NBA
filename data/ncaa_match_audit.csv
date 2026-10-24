@@ -1,0 +1,848 @@
+player_id,player_name,combine_year,ncaa_match_status,ncaa_match_method,ncaa_candidate_count,athlete_id,athlete_display_name,season,ncaa_team,ncaa_team_count,ncaa_games,included_in_dataset,included_in_model
+101106,Andrew Bogut,2005,matched,normalized_name,1,15490.0,Andrew Bogut,2005,Utah Utes,1.0,24.0,True,True
+101107,Marvin Williams,2005,matched,normalized_name,1,22241.0,Marvin Williams,2005,North Carolina Tar Heels,1.0,34.0,True,True
+101108,Chris Paul,2005,matched,normalized_name,1,15176.0,Chris Paul,2005,Wake Forest Demon Deacons,1.0,28.0,True,True
+101109,Raymond Felton,2005,matched,normalized_name,1,11868.0,Raymond Felton,2005,North Carolina Tar Heels,1.0,34.0,True,True
+101110,Martell Webster,2005,unmatched,not_matched,0,,,,,,,True,False
+101111,Charlie Villanueva,2005,matched,normalized_name,1,15342.0,Charlie Villanueva,2005,UConn Huskies,1.0,29.0,True,True
+101112,Channing Frye,2005,matched,normalized_name,1,4971.0,Channing Frye,2005,Arizona Wildcats,1.0,34.0,True,True
+101113,Ike Diogu,2005,matched,normalized_name,1,10956.0,Ike Diogu,2005,Arizona State Sun Devils,1.0,27.0,True,True
+101114,Deron Williams,2005,matched,normalized_name,1,10947.0,Deron Williams,2005,Illinois Fighting Illini,1.0,37.0,True,True
+101118,Sean May,2005,matched,normalized_name,1,11871.0,Sean May,2005,North Carolina Tar Heels,1.0,35.0,True,True
+101119,Rashad McCants,2005,matched,normalized_name,1,11872.0,Rashad McCants,2005,North Carolina Tar Heels,1.0,31.0,True,True
+101120,Antoine Wright,2005,matched,normalized_name,1,11269.0,Antoine Wright,2005,Texas A&M Aggies,1.0,27.0,True,True
+101121,Joey Graham,2005,matched,normalized_name,1,3421.0,Joey Graham,2005,Oklahoma State Cowboys,1.0,29.0,True,True
+101123,Gerald Green,2005,unmatched,not_matched,0,,,,,,,True,False
+101124,Hakim Warrick,2005,matched,normalized_name,1,5002.0,Hakim Warrick,2005,Syracuse Orange,1.0,26.0,True,True
+101125,Julius Hodge,2005,matched,normalized_name,1,5128.0,Julius Hodge,2005,NC State Wolfpack,1.0,30.0,True,True
+101127,Jarrett Jack,2005,matched,normalized_name,1,13930.0,Jarrett Jack,2005,Georgia Tech Yellow Jackets,1.0,28.0,True,True
+101128,Francisco Garcia,2005,matched,normalized_name,1,11859.0,Francisco Garcia,2005,Louisville Cardinals,1.0,34.0,True,True
+101129,Luther Head,2005,matched,normalized_name,1,5109.0,Luther Head,2005,Illinois Fighting Illini,1.0,37.0,True,True
+101131,Jason Maxiell,2005,matched,normalized_name,1,8015.0,Jason Maxiell,2005,Cincinnati Bearcats,1.0,30.0,True,True
+101134,Wayne Simien,2005,matched,normalized_name,1,5328.0,Wayne Simien,2005,Kansas Jayhawks,1.0,23.0,True,True
+101135,David Lee,2005,ambiguous_ncaa_name,not_matched,2,,,,,,,False,False
+101141,Ersan Ilyasova,2005,unmatched,not_matched,0,,,,,,,True,False
+101142,Ronny Turiaf,2005,matched,normalized_name,1,6585.0,Ronny Turiaf,2005,Gonzaga Bulldogs,1.0,26.0,True,True
+101143,Travis Diener,2005,matched,normalized_name,1,5383.0,Travis Diener,2005,Marquette Golden Eagles,1.0,16.0,True,True
+101145,Monta Ellis,2005,unmatched,not_matched,0,,,,,,,True,False
+101147,Chris Taft,2005,matched,normalized_name,1,15478.0,Chris Taft,2005,Pittsburgh Panthers,1.0,25.0,True,True
+101149,Martynas Andriuskevicius,2005,unmatched,not_matched,0,,,,,,,True,False
+101152,Bracey Wright,2005,matched,normalized_name,1,10975.0,Bracey Wright,2005,Indiana Hoosiers,1.0,23.0,True,True
+101156,Robert Whaley,2005,unmatched,not_matched,0,,,,,,,True,False
+101159,Dijon Thompson,2005,matched,normalized_name,1,8000.0,Dijon Thompson,2005,UCLA Bruins,1.0,24.0,True,True
+101162,Marcin Gortat,2005,unmatched,not_matched,0,,,,,,,True,False
+101165,Alex Acker,2005,matched,normalized_name,1,11674.0,Alex Acker,2005,Pepperdine Waves,1.0,28.0,True,True
+101179,Ronnie Price,2005,matched,normalized_name,1,6442.0,Ronnie Price,2005,Utah Valley Wolverines,1.0,12.0,True,True
+101184,Deng Gai,2005,matched,normalized_name,1,6038.0,Deng Gai,2005,Fairfield Stags,1.0,26.0,True,True
+101185,Rawle Marshall,2005,matched,normalized_name,1,1716.0,Rawle Marshall,2005,Oakland Golden Grizzlies,1.0,27.0,True,True
+101187,Alan Anderson,2005,matched,normalized_name,1,8408.0,Alan Anderson,2005,Michigan State Spartans,1.0,28.0,True,True
+101188,Eddie Basden,2005,matched,normalized_name,1,5364.0,Eddie Basden,2005,Charlotte 49ers,1.0,26.0,True,True
+101194,Anthony Roberson,2005,matched,normalized_name,1,11281.0,Anthony Roberson,2005,Florida Gators,1.0,29.0,True,True
+101195,Luke Schenscher,2005,matched,normalized_name,1,10818.0,Luke Schenscher,2005,Georgia Tech Yellow Jackets,1.0,28.0,True,True
+101198,Will Bynum,2005,matched,normalized_name,1,7995.0,Will Bynum,2005,Georgia Tech Yellow Jackets,1.0,28.0,True,True
+101204,Dwayne Jones,2005,matched,normalized_name,1,8114.0,Dwayne Jones,2005,Saint Joseph's Hawks,1.0,33.0,True,True
+101213,Sharrod Ford,2005,matched,normalized_name,1,5100.0,Sharrod Ford,2005,Clemson Tigers,1.0,31.0,True,True
+101215,Will Conroy,2005,matched,normalized_name,1,5519.0,Will Conroy,2005,Washington Huskies,1.0,30.0,True,True
+101223,Aaron Miles,2005,matched,normalized_name,1,5327.0,Aaron Miles,2005,Kansas Jayhawks,1.0,26.0,True,True
+101232,Roger Powell,2005,matched,normalized_name,1,5112.0,Roger Powell Jr.,2005,Illinois Fighting Illini,1.0,37.0,True,True
+101236,Charles Hayes,2005,matched,explicit_alias,1,5538.0,Chuck Hayes,2005,Kentucky Wildcats,1.0,32.0,True,True
+101247,Keith Langford,2005,matched,normalized_name,1,5326.0,Keith Langford,2005,Kansas Jayhawks,1.0,24.0,True,True
+101249,John Lucas III,2005,matched,normalized_name,1,5200.0,John Lucas III,2005,Oklahoma State Cowboys,1.0,29.0,True,True
+200746,LaMarcus Aldridge,2006,matched,normalized_name,1,22514.0,LaMarcus Aldridge,2006,Texas Longhorns,1.0,36.0,True,True
+200747,Adam Morrison,2006,matched,normalized_name,1,15399.0,Adam Morrison,2006,Gonzaga Bulldogs,1.0,30.0,True,True
+200748,Tyrus Thomas,2006,matched,normalized_name,1,22259.0,Tyrus Thomas,2006,LSU Tigers,1.0,31.0,True,True
+200749,Shelden Williams,2006,matched,normalized_name,1,11146.0,Shelden Williams,2006,Duke Blue Devils,1.0,36.0,True,True
+200750,Brandon Roy,2006,matched,normalized_name,1,11305.0,Brandon Roy,2006,Washington Huskies,1.0,33.0,True,True
+200751,Randy Foye,2006,matched,normalized_name,1,11153.0,Randy Foye,2006,Villanova Wildcats,1.0,33.0,True,True
+200752,Rudy Gay,2006,matched,normalized_name,1,22420.0,Rudy Gay,2006,UConn Huskies,1.0,32.0,True,True
+200753,Patrick O'Bryant,2006,matched,normalized_name,1,23015.0,Patrick O'Bryant,2006,Bradley Braves,1.0,25.0,True,True
+200754,Mouhamed Sene,2006,unmatched,not_matched,0,,,,,,,True,False
+200755,JJ Redick,2006,matched,normalized_name,1,11144.0,JJ Redick,2006,Duke Blue Devils,1.0,36.0,True,True
+200756,Hilton Armstrong,2006,matched,normalized_name,1,11222.0,Hilton Armstrong,2006,UConn Huskies,1.0,33.0,True,True
+200758,Ronnie Brewer,2006,matched,normalized_name,1,15533.0,Ronnie Brewer,2006,Arkansas Razorbacks,1.0,32.0,True,True
+200759,Cedric Simmons,2006,matched,normalized_name,1,22347.0,Cedric Simmons,2006,NC State Wolfpack,1.0,32.0,True,True
+200760,Rodney Carney,2006,matched,normalized_name,1,10987.0,Rodney Carney,2006,Memphis Tigers,1.0,37.0,True,True
+200761,Shawne Williams,2006,matched,normalized_name,1,22287.0,Shawne Williams,2006,Memphis Tigers,1.0,36.0,True,True
+200764,Renaldo Balkman,2006,matched,normalized_name,1,15457.0,Renaldo Balkman,2006,South Carolina Gamecocks,1.0,38.0,True,True
+200766,Marcus Williams,2006,ambiguous_ncaa_name,not_matched,2,,,,,,,False,False
+200770,Jordan Farmar,2006,matched,normalized_name,1,22165.0,Jordan Farmar,2006,UCLA Bruins,1.0,36.0,True,True
+200772,Maurice Ager,2006,matched,normalized_name,1,11118.0,Maurice Ager,2006,Michigan State Spartans,1.0,34.0,True,True
+200776,Mardy Collins,2006,matched,normalized_name,1,12299.0,Mardy Collins,2006,Temple Owls,1.0,32.0,True,True
+200779,Steve Novak,2006,matched,normalized_name,1,10981.0,Steve Novak,2006,Marquette Golden Eagles,1.0,30.0,True,True
+200780,Solomon Jones,2006,matched,normalized_name,1,22122.0,Solomon Jones,2006,South Florida Bulls,1.0,27.0,True,True
+200783,Craig Smith,2006,matched,normalized_name,1,11225.0,Craig Smith,2006,Boston College Eagles,1.0,35.0,True,True
+200784,Bobby Jones,2006,matched,normalized_name,1,11303.0,Bobby Jones,2006,Washington Huskies,1.0,33.0,True,True
+200786,David Noel,2006,matched,normalized_name,1,11874.0,David Noel,2006,North Carolina Tar Heels,1.0,30.0,True,True
+200788,James Augustine,2006,matched,normalized_name,1,10944.0,James Augustine,2006,Illinois Fighting Illini,1.0,31.0,True,True
+200793,Dee Brown,2005,matched,normalized_name,1,10945.0,Dee Brown,2005,Illinois Fighting Illini,1.0,37.0,True,True
+200794,Paul Millsap,2006,matched,normalized_name,1,15625.0,Paul Millsap,2006,Louisiana Tech Bulldogs,1.0,30.0,True,True
+200807,Will Blalock,2006,matched,normalized_name,1,15217.0,Will Blalock,2006,Iowa State Cyclones,1.0,27.0,True,True
+200809,Chris Quinn,2006,matched,normalized_name,1,11220.0,Chris Quinn,2006,Notre Dame Fighting Irish,1.0,29.0,True,True
+200810,Allan Ray,2006,matched,normalized_name,1,11154.0,Allan Ray,2006,Villanova Wildcats,1.0,32.0,True,True
+200811,Lou Amundson,2006,matched,normalized_name,1,8032.0,Lou Amundson,2006,UNLV Rebels,1.0,28.0,True,True
+200814,Tarence Kinsey,2006,matched,normalized_name,1,11275.0,Tarence Kinsey,2006,South Carolina Gamecocks,1.0,38.0,True,True
+200818,Justin Williams,2006,ambiguous_ncaa_name,not_matched,2,,,,,,,False,False
+200822,Pops Mensah-Bonsu,2006,matched,normalized_name,1,11470.0,Pops Mensah-Bonsu,2006,George Washington Colonials,1.0,23.0,True,True
+200827,Darius Washington,2006,matched,normalized_name,1,22286.0,Darius Washington Jr.,2006,Memphis Tigers,1.0,35.0,True,True
+200829,Ivan McFarlin,2005,matched,normalized_name,1,975.0,Ivan McFarlin,2005,Oklahoma State Cowboys,1.0,29.0,True,True
+200840,Chris McCray,2006,matched,normalized_name,1,10953.0,Chris McCray,2006,Maryland Terrapins,1.0,16.0,True,True
+200848,Steven Smith,2006,matched,normalized_name,1,11536.0,Steven Smith,2006,La Salle Explorers,1.0,28.0,True,True
+201141,Greg Oden,2007,matched,normalized_name,1,31545.0,Greg Oden,2007,Ohio State Buckeyes,1.0,31.0,True,True
+201142,Kevin Durant,2007,matched,normalized_name,1,31579.0,Kevin Durant,2007,Texas Longhorns,1.0,35.0,True,True
+201143,Al Horford,2007,matched,normalized_name,1,24424.0,Al Horford,2007,Florida Gators,1.0,37.0,True,True
+201144,Mike Conley,2007,matched,normalized_name,1,31544.0,Mike Conley,2007,Ohio State Buckeyes,1.0,37.0,True,True
+201145,Jeff Green,2007,matched,normalized_name,1,22425.0,Jeff Green,2007,Georgetown Hoyas,1.0,36.0,True,True
+201147,Corey Brewer,2007,matched,normalized_name,1,22151.0,Corey Brewer,2007,Florida Gators,1.0,36.0,True,True
+201148,Brandan Wright,2007,matched,normalized_name,1,31611.0,Brandan Wright,2007,North Carolina Tar Heels,1.0,34.0,True,True
+201149,Joakim Noah,2007,matched,normalized_name,1,22154.0,Joakim Noah,2007,Florida Gators,1.0,39.0,True,True
+201150,Spencer Hawes,2007,matched,normalized_name,1,31657.0,Spencer Hawes,2007,Washington Huskies,1.0,31.0,True,True
+201151,Acie Law,2007,matched,normalized_name,1,15169.0,Acie Law,2007,Texas A&M Aggies,1.0,34.0,True,True
+201152,Thaddeus Young,2007,matched,normalized_name,1,31619.0,Thaddeus Young,2007,Georgia Tech Yellow Jackets,1.0,30.0,True,True
+201153,Julian Wright,2007,matched,normalized_name,1,27143.0,Julian Wright,2007,Kansas Jayhawks,1.0,36.0,True,True
+201154,Al Thornton,2007,matched,normalized_name,1,15564.0,Al Thornton,2007,Florida State Seminoles,1.0,35.0,True,True
+201155,Rodney Stuckey,2007,matched,normalized_name,1,22937.0,Rodney Stuckey,2007,Eastern Washington Eagles,1.0,28.0,True,True
+201156,Nick Young,2007,matched,normalized_name,1,22162.0,Nick Young,2007,USC Trojans,1.0,36.0,True,True
+201159,Javaris Crittenton,2007,matched,normalized_name,1,31615.0,Javaris Crittenton,2007,Georgia Tech Yellow Jackets,1.0,31.0,True,True
+201160,Jason Smith,2007,ambiguous_ncaa_name,not_matched,2,,,,,,,False,False
+201161,Daequan Cook,2007,matched,normalized_name,1,31547.0,Daequan Cook,2007,Ohio State Buckeyes,1.0,37.0,True,True
+201162,Jared Dudley,2007,matched,normalized_name,1,17911.0,Jared Dudley,2007,Boston College Eagles,1.0,29.0,True,True
+201165,Morris Almond,2006,matched,normalized_name,1,15209.0,Morris Almond,2006,Rice Owls,1.0,26.0,True,True
+201166,Aaron Brooks,2007,matched,normalized_name,1,15304.0,Aaron Brooks,2007,Oregon Ducks,1.0,35.0,True,True
+201171,Carl Landry,2007,matched,normalized_name,1,22137.0,Carl Landry,2007,Purdue Boilermakers,1.0,32.0,True,True
+201176,Jermareo Davidson,2007,matched,normalized_name,1,15390.0,Jermareo Davidson,2007,Alabama Crimson Tide,1.0,30.0,True,True
+201177,Josh McRoberts,2007,matched,normalized_name,1,27022.0,Josh McRoberts,2007,Duke Blue Devils,1.0,32.0,True,True
+201180,Yue Sun,2007,unmatched,not_matched,0,,,,,,,True,False
+201181,Chris Richard,2007,matched,normalized_name,1,15387.0,Chris Richard,2007,Florida Gators,1.0,39.0,True,True
+201186,Stephane Lasme,2007,matched,normalized_name,1,15226.0,Stephane Lasme,2007,UMass Minutemen,1.0,32.0,True,True
+201187,Dominic McGuire,2007,matched,normalized_name,1,15301.0,Dominic McGuire,2007,Fresno State Bulldogs,1.0,29.0,True,True
+201189,Aaron Gray,2007,matched,normalized_name,1,15476.0,Aaron Gray,2007,Pittsburgh Panthers,1.0,36.0,True,True
+201192,Taurean Green,2007,matched,normalized_name,1,22153.0,Taurean Green,2007,Florida Gators,1.0,39.0,True,True
+201193,Demetris Nichols,2007,matched,normalized_name,1,15402.0,Demetris Nichols,2007,Syracuse Orange,1.0,33.0,True,True
+201196,Ramon Sessions,2007,matched,normalized_name,1,23275.0,Ramon Sessions,2007,Nevada Wolf Pack,1.0,31.0,True,True
+201199,DJ Strawberry,2007,matched,normalized_name,1,15354.0,D.J. Strawberry,2007,Maryland Terrapins,1.0,33.0,True,True
+201207,Coby Karl,2007,matched,normalized_name,1,11990.0,Coby Karl,2007,Boise State Broncos,1.0,28.0,True,True
+201208,Darryl Watkins,2007,matched,normalized_name,1,15404.0,Darryl Watkins,2007,Syracuse Orange,1.0,32.0,True,True
+201228,CJ Watson,2006,matched,normalized_name,1,11830.0,C.J. Watson,2006,Tennessee Volunteers,1.0,30.0,True,True
+201229,Anthony Tolliver,2007,matched,normalized_name,1,15483.0,Anthony Tolliver,2007,Creighton Bluejays,1.0,32.0,True,True
+201234,Trey Johnson,2007,matched,normalized_name,1,27570.0,Trey Johnson,2007,Jackson State Tigers,1.0,29.0,True,True
+201446,Mike Taylor,2008,unmatched,not_matched,0,,,,,,,True,False
+201563,Michael Beasley,2008,matched,normalized_name,1,36671.0,Michael Beasley,2008,Kansas State Wildcats,1.0,32.0,True,True
+201564,O.J. Mayo,2008,matched,normalized_name,1,36057.0,O.J. Mayo,2008,USC Trojans,1.0,32.0,True,True
+201565,Derrick Rose,2008,matched,normalized_name,1,36204.0,Derrick Rose,2008,Memphis Tigers,1.0,39.0,True,True
+201566,Russell Westbrook,2008,matched,normalized_name,1,31663.0,Russell Westbrook,2008,UCLA Bruins,1.0,38.0,True,True
+201567,Kevin Love,2008,matched,normalized_name,1,36059.0,Kevin Love,2008,UCLA Bruins,1.0,38.0,True,True
+201569,Eric Gordon,2008,matched,normalized_name,1,36469.0,Eric Gordon,2008,Indiana Hoosiers,1.0,32.0,True,True
+201570,Joe Alexander,2008,matched,normalized_name,1,27301.0,Joe Alexander,2008,West Virginia Mountaineers,1.0,36.0,True,True
+201571,D.J. Augustin,2008,matched,normalized_name,1,31578.0,D.J. Augustin,2008,Texas Longhorns,1.0,37.0,True,True
+201572,Brook Lopez,2008,matched,normalized_name,1,31765.0,Brook Lopez,2008,Stanford Cardinal,1.0,26.0,True,True
+201573,Jerryd Bayless,2008,matched,normalized_name,1,36075.0,Jerryd Bayless,2008,Arizona Wildcats,1.0,29.0,True,True
+201576,Anthony Randolph,2008,matched,normalized_name,1,36181.0,Anthony Randolph,2008,LSU Tigers,1.0,30.0,True,True
+201580,JaVale McGee,2008,matched,normalized_name,1,32080.0,JaVale McGee,2008,Nevada Wolf Pack,1.0,32.0,True,True
+201588,George Hill,2008,matched,normalized_name,1,22778.0,George Hill,2008,IUPUI Jaguars,1.0,30.0,True,True
+201589,Darrell Arthur,2008,matched,normalized_name,1,31786.0,Darrell Arthur,2008,Kansas Jayhawks,1.0,39.0,True,True
+201590,Donte Greene,2008,matched,normalized_name,1,36582.0,Donte Greene,2008,Syracuse Orange,1.0,34.0,True,True
+201592,J.R. Giddens,2008,matched,normalized_name,1,15187.0,J.R. Giddens,2008,New Mexico Lobos,1.0,32.0,True,True
+201595,Joey Dorsey,2008,matched,normalized_name,1,22285.0,Joey Dorsey,2008,Memphis Tigers,1.0,37.0,True,True
+201599,DeAndre Jordan,2008,matched,normalized_name,1,36142.0,DeAndre Jordan,2008,Texas A&M Aggies,1.0,34.0,True,True
+201601,Luc Mbah a Moute,2008,matched,normalized_name,1,26896.0,Luc Mbah a Moute,2008,UCLA Bruins,1.0,32.0,True,True
+201603,Sonny Weems,2008,matched,normalized_name,1,32032.0,Sonny Weems,2008,Arkansas Razorbacks,1.0,33.0,True,True
+201606,Sean Singletary,2008,matched,normalized_name,1,22208.0,Sean Singletary,2008,Virginia Cavaliers,1.0,32.0,True,True
+201607,Patrick Ewing Jr.,2008,matched,normalized_name,1,15350.0,Patrick Ewing Jr.,2008,Georgetown Hoyas,1.0,33.0,True,True
+201612,Malik Hairston,2008,matched,normalized_name,1,22482.0,Malik Hairston,2008,Oregon Ducks,1.0,31.0,True,True
+201616,Darnell Jackson,2008,matched,normalized_name,1,22178.0,Darnell Jackson,2008,Kansas Jayhawks,1.0,39.0,True,True
+201628,Bobby Brown,2007,ambiguous_ncaa_name,not_matched,2,,,,,,,False,False
+201629,Othello Hunter,2008,matched,normalized_name,1,31548.0,Othello Hunter,2008,Ohio State Buckeyes,1.0,35.0,True,True
+201634,DeMarcus Nelson,2008,matched,normalized_name,1,22217.0,DeMarcus Nelson,2008,Duke Blue Devils,1.0,33.0,True,True
+201814,Gary Forbes,2008,matched,normalized_name,1,15152.0,Gary Forbes,2008,UMass Minutemen,1.0,35.0,True,True
+201858,Cartier Martin,2007,matched,normalized_name,1,15336.0,Cartier Martin,2007,Kansas State Wildcats,1.0,34.0,True,True
+201933,Blake Griffin,2009,matched,normalized_name,1,36259.0,Blake Griffin,2009,Oklahoma Sooners,1.0,35.0,True,True
+201934,Hasheem Thabeet,2009,matched,normalized_name,1,31559.0,Hasheem Thabeet,2009,UConn Huskies,1.0,35.0,True,True
+201935,James Harden,2009,matched,normalized_name,1,36072.0,James Harden,2009,Arizona State Sun Devils,1.0,35.0,True,True
+201936,Tyreke Evans,2009,matched,normalized_name,1,41608.0,Tyreke Evans,2009,Memphis Tigers,1.0,37.0,True,True
+201938,Jonny Flynn,2009,matched,normalized_name,1,36581.0,Jonny Flynn,2009,Syracuse Orange,1.0,38.0,True,True
+201939,Stephen Curry,2009,matched,normalized_name,1,32284.0,Stephen Curry,2009,Davidson Wildcats,1.0,34.0,True,True
+201941,Jordan Hill,2009,matched,normalized_name,1,31643.0,Jordan Hill,2009,Arizona Wildcats,1.0,34.0,True,True
+201942,DeMar DeRozan,2009,matched,normalized_name,1,41016.0,DeMar DeRozan,2009,USC Trojans,1.0,35.0,True,True
+201944,Terrence Williams,2009,matched,normalized_name,1,27275.0,Terrence Williams,2009,Louisville Cardinals,1.0,37.0,True,True
+201945,Gerald Henderson,2009,matched,normalized_name,1,31708.0,Gerald Henderson,2009,Duke Blue Devils,1.0,37.0,True,True
+201946,Tyler Hansbrough,2009,matched,normalized_name,1,27018.0,Tyler Hansbrough,2009,North Carolina Tar Heels,1.0,34.0,True,True
+201947,Earl Clark,2009,matched,normalized_name,1,32006.0,Earl Clark,2009,Louisville Cardinals,1.0,37.0,True,True
+201948,Austin Daye,2009,matched,normalized_name,1,36390.0,Austin Daye,2009,Gonzaga Bulldogs,1.0,34.0,True,True
+201949,James Johnson,2009,ambiguous_ncaa_name,not_matched,2,,,,,,,False,False
+201950,Jrue Holiday,2009,matched,normalized_name,1,41014.0,Jrue Holiday,2009,UCLA Bruins,1.0,35.0,True,True
+201951,Ty Lawson,2009,matched,normalized_name,1,31608.0,Ty Lawson,2009,North Carolina Tar Heels,1.0,35.0,True,True
+201952,Jeff Teague,2009,matched,normalized_name,1,36121.0,Jeff Teague,2009,Wake Forest Demon Deacons,1.0,31.0,True,True
+201953,Eric Maynor,2009,matched,normalized_name,1,27371.0,Eric Maynor,2009,VCU Rams,1.0,34.0,True,True
+201954,Darren Collison,2009,matched,normalized_name,1,26892.0,Darren Collison,2009,UCLA Bruins,1.0,35.0,True,True
+201956,Omri Casspi,2009,unmatched,not_matched,0,,,,,,,True,False
+201957,Byron Mullens,2009,matched,normalized_name,1,41747.0,Byron Mullens,2009,Ohio State Buckeyes,1.0,33.0,True,True
+201958,Rodrigue Beaubois,2009,unmatched,not_matched,0,,,,,,,True,False
+201959,Taj Gibson,2009,matched,normalized_name,1,31775.0,Taj Gibson,2009,USC Trojans,1.0,35.0,True,True
+201960,DeMarre Carroll,2009,matched,normalized_name,1,22107.0,DeMarre Carroll,2009,Missouri Tigers,1.0,38.0,True,True
+201961,Wayne Ellington,2009,matched,normalized_name,1,31606.0,Wayne Ellington,2009,North Carolina Tar Heels,1.0,38.0,True,True
+201962,Toney Douglas,2009,matched,normalized_name,1,22111.0,Toney Douglas,2009,Florida State Seminoles,1.0,35.0,True,True
+201965,Jeff Ayres,2009,matched,normalized_name,1,26880.0,Jeff Ayres,2009,Arizona State Sun Devils,1.0,35.0,True,True
+201966,Jermaine Taylor,2009,matched,normalized_name,1,26812.0,Jermaine Taylor,2009,UCF Knights,1.0,31.0,True,True
+201967,Dante Cunningham,2009,matched,normalized_name,1,26961.0,Dante Cunningham,2009,Villanova Wildcats,1.0,38.0,True,True
+201969,DaJuan Summers,2009,matched,normalized_name,1,32020.0,DaJuan Summers,2009,Georgetown Hoyas,1.0,31.0,True,True
+201970,Sam Young,2009,matched,normalized_name,1,27299.0,Sam Young,2009,Pittsburgh Panthers,1.0,35.0,True,True
+201971,DeJuan Blair,2009,matched,normalized_name,1,36578.0,DeJuan Blair,2009,Pittsburgh Panthers,1.0,34.0,True,True
+201974,Derrick Brown,2009,matched,normalized_name,1,26936.0,Derrick Brown,2009,Xavier Musketeers,1.0,34.0,True,True
+201975,Jodie Meeks,2009,matched,normalized_name,1,31683.0,Jodie Meeks,2009,Kentucky Wildcats,1.0,36.0,True,True
+201977,Marcus Thornton,2009,matched,normalized_name,1,36182.0,Marcus Thornton,2009,LSU Tigers,1.0,35.0,True,True
+201978,Chase Budinger,2009,matched,normalized_name,1,31642.0,Chase Budinger,2009,Arizona Wildcats,1.0,35.0,True,True
+201980,Danny Green,2009,matched,normalized_name,1,27017.0,Danny Green,2009,North Carolina Tar Heels,1.0,38.0,True,True
+201985,A.J. Price,2009,matched,normalized_name,1,22422.0,A.J. Price,2009,UConn Huskies,1.0,34.0,True,True
+201988,Patty Mills,2009,matched,normalized_name,1,37525.0,Patty Mills,2009,Saint Mary's Gaels,1.0,24.0,True,True
+201991,Lester Hudson,2008,matched,normalized_name,1,37439.0,Lester Hudson,2008,UT Martin Skyhawks,1.0,32.0,True,True
+202322,John Wall,2010,matched,normalized_name,1,45885.0,John Wall,2010,Kentucky Wildcats,1.0,37.0,True,True
+202323,Evan Turner,2010,matched,normalized_name,1,36135.0,Evan Turner,2010,Ohio State Buckeyes,1.0,31.0,True,True
+202324,Derrick Favors,2010,matched,normalized_name,1,45521.0,Derrick Favors,2010,Georgia Tech Yellow Jackets,1.0,36.0,True,True
+202325,Wesley Johnson,2010,matched,normalized_name,1,31587.0,Wesley Johnson,2010,Syracuse Orange,1.0,35.0,True,True
+202326,DeMarcus Cousins,2010,matched,normalized_name,1,45882.0,DeMarcus Cousins,2010,Kentucky Wildcats,1.0,38.0,True,True
+202327,Ekpe Udoh,2010,matched,normalized_name,1,31889.0,Ekpe Udoh,2010,Baylor Bears,1.0,36.0,True,True
+202328,Greg Monroe,2010,matched,normalized_name,1,41733.0,Greg Monroe,2010,Georgetown Hoyas,1.0,34.0,True,True
+202329,Al-Farouq Aminu,2010,matched,normalized_name,1,41037.0,Al-Farouq Aminu,2010,Wake Forest Demon Deacons,1.0,31.0,True,True
+202330,Gordon Hayward,2010,matched,normalized_name,1,42247.0,Gordon Hayward,2010,Butler Bulldogs,1.0,37.0,True,True
+202331,Paul George,2010,matched,normalized_name,1,41772.0,Paul George,2010,Fresno State Bulldogs,1.0,28.0,True,True
+202332,Cole Aldrich,2010,matched,normalized_name,1,36170.0,Cole Aldrich,2010,Kansas Jayhawks,1.0,36.0,True,True
+202333,Xavier Henry,2010,matched,normalized_name,1,46115.0,Xavier Henry,2010,Kansas Jayhawks,1.0,36.0,True,True
+202334,Ed Davis,2010,matched,normalized_name,1,36668.0,Ed Davis,2010,North Carolina Tar Heels,1.0,23.0,True,True
+202335,Patrick Patterson,2010,matched,normalized_name,1,36191.0,Patrick Patterson,2010,Kentucky Wildcats,1.0,38.0,True,True
+202336,Larry Sanders,2010,matched,normalized_name,1,36534.0,Larry Sanders,2010,VCU Rams,1.0,35.0,True,True
+202337,Luke Babbitt,2010,matched,normalized_name,1,41425.0,Luke Babbitt,2010,Nevada Wolf Pack,1.0,33.0,True,True
+202339,Eric Bledsoe,2010,matched,normalized_name,1,45881.0,Eric Bledsoe,2010,Kentucky Wildcats,1.0,37.0,True,True
+202340,Avery Bradley,2010,matched,normalized_name,1,46196.0,Avery Bradley,2010,Texas Longhorns,1.0,34.0,True,True
+202341,James Anderson,2010,ambiguous_ncaa_name,not_matched,2,,,,,,,False,False
+202342,Craig Brackins,2010,matched,normalized_name,1,36262.0,Craig Brackins,2010,Iowa State Cyclones,1.0,32.0,True,True
+202344,Trevor Booker,2010,matched,normalized_name,1,31865.0,Trevor Booker,2010,Clemson Tigers,1.0,32.0,True,True
+202345,Damion James,2010,matched,normalized_name,1,31581.0,Damion James,2010,Texas Longhorns,1.0,34.0,True,True
+202346,Dominique Jones,2010,matched,normalized_name,1,36237.0,Dominique Jones,2010,South Florida Bulls,1.0,33.0,True,True
+202348,Jordan Crawford,2010,matched,normalized_name,1,36467.0,Jordan Crawford,2010,Xavier Musketeers,1.0,35.0,True,True
+202349,Greivis Vasquez,2010,matched,normalized_name,1,32018.0,Greivis Vasquez,2010,Maryland Terrapins,1.0,33.0,True,True
+202350,Daniel Orton,2010,matched,normalized_name,1,45884.0,Daniel Orton,2010,Kentucky Wildcats,1.0,38.0,True,True
+202351,Lazar Hayward,2010,matched,normalized_name,1,31821.0,Lazar Hayward,2010,Marquette Golden Eagles,1.0,34.0,True,True
+202354,Dexter Pittman,2010,matched,normalized_name,1,31583.0,Dexter Pittman,2010,Texas Longhorns,1.0,34.0,True,True
+202355,Hassan Whiteside,2010,matched,normalized_name,1,46133.0,Hassan Whiteside,2010,Marshall Thundering Herd,1.0,34.0,True,True
+202356,Armon Johnson,2010,matched,normalized_name,1,36326.0,Armon Johnson,2010,Nevada Wolf Pack,1.0,33.0,True,True
+202359,Darington Hobson,2010,matched,normalized_name,1,36419.0,Darington Hobson,2010,New Mexico Lobos,1.0,35.0,True,True
+202360,Andy Rautins,2010,matched,normalized_name,1,27189.0,Andy Rautins,2010,Syracuse Orange,1.0,35.0,True,True
+202362,Lance Stephenson,2010,matched,normalized_name,1,45944.0,Lance Stephenson,2010,Cincinnati Bearcats,1.0,34.0,True,True
+202365,Devin Ebanks,2010,matched,normalized_name,1,41840.0,Devin Ebanks,2010,West Virginia Mountaineers,1.0,34.0,True,True
+202371,Gani Lawal,2010,matched,normalized_name,1,36507.0,Gani Lawal,2010,Georgia Tech Yellow Jackets,1.0,36.0,True,True
+202374,Solomon Alabi,2010,matched,normalized_name,1,36130.0,Solomon Alabi,2010,Florida State Seminoles,1.0,32.0,True,True
+202376,Luke Harangody,2010,matched,normalized_name,1,31678.0,Luke Harangody,2010,Notre Dame Fighting Irish,1.0,30.0,True,True
+202378,Willie Warren,2010,matched,normalized_name,1,41570.0,Willie Warren,2010,Oklahoma Sooners,1.0,19.0,True,True
+202382,Derrick Caracter,2010,matched,normalized_name,1,32008.0,Derrick Caracter,2010,UTEP Miners,1.0,27.0,True,True
+202395,Sherron Collins,2010,matched,normalized_name,1,31788.0,Sherron Collins,2010,Kansas Jayhawks,1.0,36.0,True,True
+202399,Jeff Adrien,2009,matched,normalized_name,1,26956.0,Jeff Adrien,2009,UConn Huskies,1.0,35.0,True,True
+202412,Manny Harris,2010,matched,normalized_name,1,36472.0,Manny Harris,2010,Michigan Wolverines,1.0,31.0,True,True
+202681,Kyrie Irving,2011,matched,normalized_name,1,51267.0,Kyrie Irving,2011,Duke Blue Devils,1.0,11.0,True,True
+202682,Derrick Williams,2011,ambiguous_ncaa_name,not_matched,2,,,,,,,False,False
+202683,Enes Kanter,2011,unmatched,not_matched,0,,,,,,,True,False
+202684,Tristan Thompson,2011,ambiguous_ncaa_name,not_matched,2,,,,,,,False,False
+202688,Brandon Knight,2011,ambiguous_ncaa_name,not_matched,2,,,,,,,False,False
+202689,Kemba Walker,2011,matched,normalized_name,1,41515.0,Kemba Walker,2011,UConn Huskies,1.0,41.0,True,True
+202691,Klay Thompson,2011,matched,normalized_name,1,41026.0,Klay Thompson,2011,Washington State Cougars,1.0,34.0,True,True
+202692,Alec Burks,2011,matched,normalized_name,1,46086.0,Alec Burks,2011,Colorado Buffaloes,1.0,38.0,True,True
+202693,Markieff Morris,2011,matched,normalized_name,1,44654.0,Markieff Morris,2011,Kansas Jayhawks,1.0,38.0,True,True
+202694,Marcus Morris,2011,matched,normalized_name,1,41767.0,Marcus Morris Sr.,2011,Kansas Jayhawks,1.0,38.0,True,True
+202695,Kawhi Leonard,2011,matched,normalized_name,1,46049.0,Kawhi Leonard,2011,San Diego State Aztecs,1.0,36.0,True,True
+202696,Nikola Vucevic,2011,matched,normalized_name,1,41019.0,Nikola Vucevic,2011,USC Trojans,1.0,34.0,True,True
+202697,Iman Shumpert,2011,matched,normalized_name,1,40975.0,Iman Shumpert,2011,Georgia Tech Yellow Jackets,1.0,31.0,True,True
+202698,Chris Singleton,2011,matched,normalized_name,1,40974.0,Chris Singleton,2011,Florida State Seminoles,1.0,27.0,True,True
+202699,Tobias Harris,2011,matched,normalized_name,1,51417.0,Tobias Harris,2011,Tennessee Volunteers,1.0,34.0,True,True
+202701,Nolan Smith,2011,matched,normalized_name,1,36157.0,Nolan Smith,2011,Duke Blue Devils,1.0,37.0,True,True
+202702,Kenneth Faried,2011,matched,normalized_name,1,37289.0,Kenneth Faried,2011,Morehead State Eagles,1.0,33.0,True,True
+202705,Marshon Brooks,2011,matched,normalized_name,1,36162.0,MarShon Brooks,2011,Providence Friars,1.0,32.0,True,True
+202706,Jordan Hamilton,2011,ambiguous_ncaa_name,not_matched,2,,,,,,,False,False
+202707,JaJuan Johnson,2011,matched,normalized_name,1,36150.0,JaJuan Johnson,2011,Purdue Boilermakers,1.0,34.0,True,True
+202708,Norris Cole,2011,matched,normalized_name,1,37147.0,Norris Cole,2011,Cleveland State Vikings,1.0,36.0,True,True
+202709,Cory Joseph,2011,matched,normalized_name,1,51445.0,Cory Joseph,2011,Texas Longhorns,1.0,36.0,True,True
+202710,Jimmy Butler,2011,matched,normalized_name,1,41080.0,Jimmy Butler,2011,Marquette Golden Eagles,1.0,37.0,True,True
+202712,Justin Harper,2011,matched,normalized_name,1,36087.0,Justin Harper,2011,Richmond Spiders,1.0,37.0,True,True
+202713,Kyle Singler,2011,matched,normalized_name,1,36156.0,Kyle Singler,2011,Duke Blue Devils,1.0,37.0,True,True
+202714,Shelvin Mack,2011,matched,normalized_name,1,42249.0,Shelvin Mack,2011,Butler Bulldogs,1.0,38.0,True,True
+202715,Tyler Honeycutt,2011,matched,normalized_name,1,46171.0,Tyler Honeycutt,2011,UCLA Bruins,1.0,33.0,True,True
+202716,Jordan Williams,2011,matched,normalized_name,1,45916.0,Jordan Williams,2011,Maryland Terrapins,1.0,33.0,True,True
+202717,Trey Thompkins,2011,matched,normalized_name,1,41704.0,Trey Thompkins,2011,Georgia Bulldogs,1.0,30.0,True,True
+202718,Chandler Parsons,2011,matched,normalized_name,1,36383.0,Chandler Parsons,2011,Florida Gators,1.0,36.0,True,True
+202719,Jeremy Tyler,2011,unmatched,not_matched,0,,,,,,,True,False
+202720,Jon Leuer,2011,matched,normalized_name,1,36138.0,Jon Leuer,2011,Wisconsin Badgers,1.0,34.0,True,True
+202721,Darius Morris,2011,matched,normalized_name,1,3163079.0,Darius Morris,2011,Michigan Wolverines,1.0,35.0,True,True
+202723,Malcolm Lee,2011,matched,normalized_name,1,41010.0,Malcolm Lee,2011,UCLA Bruins,1.0,33.0,True,True
+202724,Charles Jenkins,2011,matched,normalized_name,1,31911.0,Charles Jenkins,2011,Hofstra Pride,1.0,32.0,True,True
+202726,Andrew Goudelock,2011,matched,normalized_name,1,36889.0,Andrew Goudelock,2011,Charleston Cougars,1.0,37.0,True,True
+202727,Travis Leslie,2011,matched,normalized_name,1,41702.0,Travis Leslie,2011,Georgia Bulldogs,1.0,33.0,True,True
+202728,Keith Benson,2011,matched,normalized_name,1,32376.0,Keith Benson,2011,Oakland Golden Grizzlies,1.0,34.0,True,True
+202729,Josh Selby,2011,matched,normalized_name,1,51466.0,Josh Selby,2011,Kansas Jayhawks,1.0,26.0,True,True
+202732,DeAndre Liggins,2011,matched,normalized_name,1,41837.0,DeAndre Liggins,2011,Kentucky Wildcats,1.0,38.0,True,True
+202734,E'Twaun Moore,2011,matched,normalized_name,1,36152.0,E'Twaun Moore,2011,Purdue Boilermakers,1.0,34.0,True,True
+202738,Isaiah Thomas,2011,matched,normalized_name,1,41021.0,Isaiah Thomas,2011,Washington Huskies,1.0,35.0,True,True
+203076,Anthony Davis,2012,matched,normalized_name,1,56353.0,Anthony Davis,2012,Kentucky Wildcats,1.0,40.0,True,True
+203077,Michael Kidd-Gilchrist,2012,matched,normalized_name,1,56352.0,Michael Kidd-Gilchrist,2012,Kentucky Wildcats,1.0,40.0,True,True
+203078,Bradley Beal,2012,matched,normalized_name,1,56792.0,Bradley Beal,2012,Florida Gators,1.0,37.0,True,True
+203079,Dion Waiters,2012,ambiguous_ncaa_name,not_matched,2,,,,,,,False,False
+203080,Thomas Robinson,2012,matched,normalized_name,1,46114.0,Thomas Robinson,2012,Kansas Jayhawks,1.0,38.0,True,True
+203081,Damian Lillard,2012,matched,normalized_name,1,41544.0,Damian Lillard,2012,Weber State Wildcats,1.0,31.0,True,True
+203082,Terrence Ross,2012,matched,normalized_name,1,51075.0,Terrence Ross,2012,Washington Huskies,1.0,35.0,True,True
+203083,Andre Drummond,2012,matched,normalized_name,1,57279.0,Andre Drummond,2012,UConn Huskies,1.0,34.0,True,True
+203084,Harrison Barnes,2012,matched,normalized_name,1,51385.0,Harrison Barnes,2012,North Carolina Tar Heels,1.0,38.0,True,True
+203085,Austin Rivers,2012,matched,normalized_name,1,56112.0,Austin Rivers,2012,Duke Blue Devils,1.0,34.0,True,True
+203086,Meyers Leonard,2012,matched,normalized_name,1,51088.0,Meyers Leonard,2012,Illinois Fighting Illini,1.0,32.0,True,True
+203087,Jeremy Lamb,2012,matched,normalized_name,1,51453.0,Jeremy Lamb,2012,UConn Huskies,1.0,34.0,True,True
+203088,Kendall Marshall,2012,matched,normalized_name,1,51383.0,Kendall Marshall,2012,North Carolina Tar Heels,1.0,36.0,True,True
+203089,John Henson,2012,matched,normalized_name,1,45531.0,John Henson,2012,North Carolina Tar Heels,1.0,35.0,True,True
+203090,Maurice Harkless,2012,matched,normalized_name,1,57023.0,Maurice Harkless,2012,St. John's Red Storm,1.0,32.0,True,True
+203091,Royce White,2012,matched,normalized_name,1,45982.0,Royce White,2012,Iowa State Cyclones,1.0,34.0,True,True
+203092,Tyler Zeller,2012,matched,normalized_name,1,41465.0,Tyler Zeller,2012,North Carolina Tar Heels,1.0,38.0,True,True
+203093,Terrence Jones,2012,matched,normalized_name,1,51540.0,Terrence Jones,2012,Kentucky Wildcats,1.0,38.0,True,True
+203094,Andrew Nicholson,2012,matched,normalized_name,1,41510.0,Andrew Nicholson,2012,St. Bonaventure Bonnies,1.0,32.0,True,True
+203096,Jared Sullinger,2012,matched,normalized_name,1,51405.0,Jared Sullinger,2012,Ohio State Buckeyes,1.0,37.0,True,True
+203097,Fab Melo,2012,matched,normalized_name,1,51343.0,Fab Melo,2012,Syracuse Orange,1.0,30.0,True,True
+203098,John Jenkins,2012,matched,normalized_name,1,45892.0,John Jenkins,2012,Vanderbilt Commodores,1.0,35.0,True,True
+203099,Jared Cunningham,2012,matched,normalized_name,1,46146.0,Jared Cunningham,2012,Oregon State Beavers,1.0,35.0,True,True
+203100,Tony Wroten,2012,matched,normalized_name,1,56838.0,Tony Wroten,2012,Washington Huskies,1.0,35.0,True,True
+203101,Miles Plumlee,2012,matched,normalized_name,1,41720.0,Miles Plumlee,2012,Duke Blue Devils,1.0,34.0,True,True
+203102,Arnett Moultrie,2012,matched,normalized_name,1,41183.0,Arnett Moultrie,2012,Mississippi State Bulldogs,1.0,30.0,True,True
+203103,Perry Jones,2012,matched,normalized_name,1,51237.0,Perry Jones,2012,Baylor Bears,1.0,32.0,True,True
+203104,Marquis Teague,2012,matched,normalized_name,1,56354.0,Marquis Teague,2012,Kentucky Wildcats,1.0,40.0,True,True
+203105,Festus Ezeli,2012,matched,normalized_name,1,38505.0,Festus Ezeli,2012,Vanderbilt Commodores,1.0,26.0,True,True
+203106,Jeff Taylor,2012,matched,explicit_alias,1,41709.0,Jeffery Taylor,2012,Vanderbilt Commodores,1.0,36.0,True,True
+203108,Bernard James,2012,matched,normalized_name,1,51353.0,Bernard James,2012,Florida State Seminoles,1.0,35.0,True,True
+203109,Jae Crowder,2012,matched,normalized_name,1,51394.0,Jae Crowder,2012,Marquette Golden Eagles,1.0,35.0,True,True
+203110,Draymond Green,2012,matched,normalized_name,1,41760.0,Draymond Green,2012,Michigan State Spartans,1.0,37.0,True,True
+203111,Orlando Johnson,2012,matched,normalized_name,1,37470.0,Orlando Johnson,2012,UC Santa Barbara Gauchos,1.0,30.0,True,True
+203112,Quincy Acy,2012,matched,normalized_name,1,41788.0,Quincy Acy,2012,Baylor Bears,1.0,37.0,True,True
+203113,Quincy Miller,2012,matched,normalized_name,1,56614.0,Quincy Miller,2012,Baylor Bears,1.0,36.0,True,True
+203114,Khris Middleton,2012,matched,normalized_name,1,46005.0,Khris Middleton,2012,Texas A&M Aggies,1.0,20.0,True,True
+203115,Will Barton,2012,matched,normalized_name,1,51259.0,Will Barton,2012,Memphis Tigers,1.0,35.0,True,True
+203116,Tyshawn Taylor,2012,matched,normalized_name,1,41766.0,Tyshawn Taylor,2012,Kansas Jayhawks,1.0,38.0,True,True
+203117,Doron Lamb,2012,matched,normalized_name,1,51543.0,Doron Lamb,2012,Kentucky Wildcats,1.0,40.0,True,True
+203118,Mike Scott,2012,matched,normalized_name,1,36117.0,Mike Scott,2012,Virginia Cavaliers,1.0,32.0,True,True
+203119,Kim English,2012,matched,normalized_name,1,41075.0,Kim English,2012,Missouri Tigers,1.0,35.0,True,True
+203121,Darius Miller,2012,matched,normalized_name,1,41836.0,Darius Miller,2012,Kentucky Wildcats,1.0,40.0,True,True
+203122,Kevin Murphy,2012,matched,normalized_name,1,42155.0,Kevin Murphy,2012,Tennessee Tech Golden Eagles,1.0,31.0,True,True
+203124,Kyle O'Quinn,2012,matched,normalized_name,1,43058.0,Kyle O'Quinn,2012,Norfolk State Spartans,1.0,35.0,True,True
+203126,Kris Joseph,2012,matched,normalized_name,1,41523.0,Kris Joseph,2012,Syracuse Orange,1.0,37.0,True,True
+203130,Darius Johnson-Odom,2012,matched,normalized_name,1,45571.0,Darius Johnson-Odom,2012,Marquette Golden Eagles,1.0,34.0,True,True
+203133,Robbie Hummel,2012,matched,explicit_alias,1,36149.0,Robbie John Hummel,2012,Purdue Boilermakers,1.0,35.0,True,True
+203138,Hollis Thompson,2012,matched,normalized_name,1,46143.0,Hollis Thompson,2012,Georgetown Hoyas,1.0,33.0,True,True
+203156,Henry Sims,2012,matched,normalized_name,1,41734.0,Henry Sims,2012,Georgetown Hoyas,1.0,33.0,True,True
+203158,Kevin Jones,2012,ambiguous_ncaa_name,not_matched,2,,,,,,,False,False
+203159,Scott Machado,2012,matched,normalized_name,1,42027.0,Scott Machado,2012,Iona Gaels,1.0,33.0,True,True
+203183,Tony Mitchell,2012,ambiguous_ncaa_name,not_matched,2,,,,,,,False,False
+203318,Glen Rice,2013,unmatched,not_matched,0,,,,,,,True,False
+203457,Nerlens Noel,2013,matched,normalized_name,1,61840.0,Nerlens Noel,2013,Kentucky Wildcats,1.0,24.0,True,True
+203458,Alex Len,2013,matched,normalized_name,1,57379.0,Alex Len,2013,Maryland Terrapins,1.0,38.0,True,True
+203459,Allen Crabbe,2013,matched,normalized_name,1,51022.0,Allen Crabbe,2013,California Golden Bears,1.0,33.0,True,True
+203460,Andre Roberson,2013,matched,normalized_name,1,51029.0,Andre Roberson,2013,Colorado Buffaloes,1.0,31.0,True,True
+203462,Archie Goodwin,2013,matched,normalized_name,1,61841.0,Archie Goodwin,2013,Kentucky Wildcats,1.0,33.0,True,True
+203463,Ben McLemore,2013,matched,normalized_name,1,56652.0,Ben McLemore,2013,Kansas Jayhawks,1.0,37.0,True,True
+203467,Carrick Felix,2013,matched,normalized_name,1,51084.0,Carrick Felix,2013,Arizona State Sun Devils,1.0,35.0,True,True
+203468,CJ McCollum,2013,matched,normalized_name,1,46502.0,CJ McCollum,2013,Lehigh Mountain Hawks,1.0,12.0,True,True
+203469,Cody Zeller,2013,matched,normalized_name,1,56224.0,Cody Zeller,2013,Indiana Hoosiers,1.0,36.0,True,True
+203471,Dennis Schroder,2013,unmatched,not_matched,0,,,,,,,True,False
+203473,Dewayne Dedmon,2013,matched,normalized_name,1,56746.0,Dewayne Dedmon,2013,USC Trojans,1.0,31.0,True,True
+203475,Erick Green,2013,matched,normalized_name,1,45918.0,Erick Green,2013,Virginia Tech Hokies,1.0,32.0,True,True
+203476,Gorgui Dieng,2013,matched,normalized_name,1,51476.0,Gorgui Dieng,2013,Louisville Cardinals,1.0,33.0,True,True
+203477,Isaiah Canaan,2013,matched,normalized_name,1,45836.0,Isaiah Canaan,2013,Murray State Racers,1.0,31.0,True,True
+203479,Jamaal Franklin,2013,matched,normalized_name,1,51842.0,Jamaal Franklin,2013,San Diego State Aztecs,1.0,33.0,True,True
+203480,James Southerland,2013,matched,normalized_name,1,46155.0,James Southerland,2013,Syracuse Orange,1.0,34.0,True,True
+203481,Jeff Withey,2013,matched,normalized_name,1,40989.0,Jeff Withey,2013,Kansas Jayhawks,1.0,37.0,True,True
+203482,Kelly Olynyk,2013,matched,normalized_name,1,46207.0,Kelly Olynyk,2013,Gonzaga Bulldogs,1.0,32.0,True,True
+203484,Kentavious Caldwell-Pope,2013,matched,normalized_name,1,56346.0,Kentavious Caldwell-Pope,2013,Georgia Bulldogs,1.0,32.0,True,True
+203485,Lorenzo Brown,2013,matched,normalized_name,1,45537.0,Lorenzo Brown,2013,NC State Wolfpack,1.0,33.0,True,True
+203486,Mason Plumlee,2013,matched,normalized_name,1,45913.0,Mason Plumlee,2013,Duke Blue Devils,1.0,36.0,True,True
+203487,Michael Carter-Williams,2013,matched,normalized_name,1,56995.0,Michael Carter-Williams,2013,Syracuse Orange,1.0,40.0,True,True
+203488,Mike Muscala,2013,matched,normalized_name,1,46309.0,Mike Muscala,2013,Bucknell Bison,1.0,34.0,True,True
+203489,Nate Wolters,2013,matched,normalized_name,1,46740.0,Nate Wolters,2013,South Dakota State Jackrabbits,1.0,33.0,True,True
+203490,Otto Porter,2013,matched,normalized_name,1,56909.0,Otto Porter Jr.,2013,Georgetown Hoyas,1.0,31.0,True,True
+203491,Peyton Siva,2013,matched,normalized_name,1,45951.0,Peyton Siva,2013,Louisville Cardinals,1.0,40.0,True,True
+203492,Ray McCallum,2013,matched,normalized_name,1,52079.0,Ray McCallum,2013,Detroit Mercy Titans,1.0,33.0,True,True
+203493,Reggie Bullock,2013,matched,normalized_name,1,51384.0,Reggie Bullock,2013,North Carolina Tar Heels,1.0,35.0,True,True
+203495,Ricky Ledo,2013,unmatched,not_matched,0,,,,,,,True,False
+203496,Robert Covington,2013,matched,normalized_name,1,47005.0,Robert Covington,2013,Tennessee State Tigers,1.0,21.0,True,True
+203497,Rudy Gobert,2013,unmatched,not_matched,0,,,,,,,True,False
+203498,Shabazz Muhammad,2013,matched,normalized_name,1,61732.0,Shabazz Muhammad,2013,UCLA Bruins,1.0,32.0,True,True
+203499,Shane Larkin,2013,matched,normalized_name,1,57804.0,Shane Larkin,2013,Miami Hurricanes,1.0,36.0,True,True
+203500,Steven Adams,2013,matched,normalized_name,1,61218.0,Steven Adams,2013,Pittsburgh Panthers,1.0,32.0,True,True
+203501,Tim Hardaway Jr.,2013,matched,normalized_name,1,51270.0,Tim Hardaway Jr.,2013,Michigan Wolverines,1.0,38.0,True,True
+203502,Tony Mitchell,2013,matched,normalized_name,1,56567.0,Tony Mitchell,2013,North Texas Mean Green,1.0,31.0,True,True
+203503,Tony Snell,2013,matched,normalized_name,1,51162.0,Tony Snell,2013,New Mexico Lobos,1.0,35.0,True,True
+203504,Trey Burke,2013,matched,normalized_name,1,56670.0,Trey Burke,2013,Michigan Wolverines,1.0,39.0,True,True
+203505,Vander Blue,2013,matched,normalized_name,1,51393.0,Vander Blue,2013,Marquette Golden Eagles,1.0,34.0,True,True
+203506,Victor Oladipo,2013,matched,normalized_name,1,51480.0,Victor Oladipo,2013,Indiana Hoosiers,1.0,36.0,True,True
+203511,Grant Jerrett,2013,matched,normalized_name,1,61550.0,Grant Jerrett,2013,Arizona Wildcats,1.0,34.0,True,True
+203513,Erik Murphy,2013,matched,explicit_alias,1,46070.0,Erik Jay Murphy,2013,Florida Gators,1.0,36.0,True,True
+203515,Phil Pressey,2013,matched,normalized_name,1,51345.0,Phil Pressey,2013,Missouri Tigers,1.0,34.0,True,True
+203516,James Ennis,2013,matched,normalized_name,1,56241.0,James Ennis III,2013,Long Beach State Beach,1.0,31.0,True,True
+203519,Adonis Thomas,2013,matched,normalized_name,1,57002.0,Adonis Thomas,2013,Memphis Tigers,1.0,36.0,True,True
+203524,Solomon Hill,2013,matched,normalized_name,1,45855.0,Solomon Hill,2013,Arizona Wildcats,1.0,35.0,True,True
+203527,Ryan Kelly,2013,matched,normalized_name,1,45911.0,Ryan Kelly,2013,Duke Blue Devils,1.0,23.0,True,True
+203552,Seth Curry,2013,matched,normalized_name,1,41546.0,Seth Curry,2013,Duke Blue Devils,1.0,35.0,True,True
+203561,Brandon Davies,2013,matched,normalized_name,1,45801.0,Brandon Davies,2013,BYU Cougars,1.0,36.0,True,True
+203648,Thanasis Antetokounmpo,2014,unmatched,not_matched,0,,,,,,,True,False
+203798,P.J. Hairston,2014,unmatched,not_matched,0,,,,,,,True,False
+203893,Russ Smith,2014,matched,normalized_name,1,51478.0,Russ Smith,2014,Louisville Cardinals,1.0,37.0,True,True
+203894,Shabazz Napier,2014,matched,normalized_name,1,51455.0,Shabazz Napier,2014,UConn Huskies,1.0,40.0,True,True
+203895,Jordan McRae,2014,matched,normalized_name,1,51418.0,Jordan McRae,2014,Tennessee Volunteers,1.0,37.0,True,True
+203897,Zach LaVine,2014,matched,normalized_name,1,66221.0,Zach LaVine,2014,UCLA Bruins,1.0,37.0,True,True
+203898,Tyler Ennis,2014,matched,normalized_name,1,66601.0,Tyler Ennis,2014,Syracuse Orange,1.0,34.0,True,True
+203900,Markel Brown,2014,matched,normalized_name,1,51493.0,Markel Brown,2014,Oklahoma State Cowboys,1.0,34.0,True,True
+203901,Elfrid Payton,2014,matched,normalized_name,1,56848.0,Elfrid Payton,2014,Louisiana Ragin' Cajuns,1.0,35.0,True,True
+203902,Semaj Christon,2014,matched,normalized_name,1,61188.0,Semaj Christon,2014,Xavier Musketeers,1.0,34.0,True,True
+203903,Jordan Clarkson,2014,matched,normalized_name,1,51323.0,Jordan Clarkson,2014,Missouri Tigers,1.0,35.0,True,True
+203906,Devyn Marble,2014,matched,normalized_name,1,51524.0,Devyn Marble,2014,Iowa Hawkeyes,1.0,33.0,True,True
+203909,K.J. McDaniels,2014,matched,normalized_name,1,56631.0,KJ McDaniels,2014,Clemson Tigers,1.0,36.0,True,True
+203910,Nick Johnson,2014,matched,normalized_name,1,56290.0,Nick Johnson,2014,Arizona Wildcats,1.0,38.0,True,True
+203912,C.J. Wilcox,2014,matched,normalized_name,1,45869.0,CJ Wilcox,2014,Washington Huskies,1.0,32.0,True,True
+203913,Jabari Brown,2014,matched,normalized_name,1,56698.0,Jabari Brown,2014,Missouri Tigers,1.0,35.0,True,True
+203914,Gary Harris,2014,matched,normalized_name,1,62613.0,Gary Harris,2014,Michigan State Spartans,1.0,35.0,True,True
+203915,Spencer Dinwiddie,2014,matched,normalized_name,1,56288.0,Spencer Dinwiddie,2014,Colorado Buffaloes,1.0,17.0,True,True
+203917,Nik Stauskas,2014,matched,normalized_name,1,61809.0,Nik Stauskas,2014,Michigan Wolverines,1.0,36.0,True,True
+203918,Rodney Hood,2014,matched,normalized_name,1,56359.0,Rodney Hood,2014,Duke Blue Devils,1.0,35.0,True,True
+203919,Jordan Adams,2014,ambiguous_ncaa_name,not_matched,2,,,,,,,False,False
+203921,Cleanthony Early,2014,matched,normalized_name,1,62186.0,Cleanthony Early,2014,Wichita State Shockers,1.0,36.0,True,True
+203922,Glenn Robinson III,2014,matched,normalized_name,1,61806.0,Glenn Robinson III,2014,Michigan Wolverines,1.0,37.0,True,True
+203923,James Young,2014,matched,normalized_name,1,66613.0,James Young,2014,Kentucky Wildcats,1.0,40.0,True,True
+203924,Jerami Grant,2014,matched,normalized_name,1,61822.0,Jerami Grant,2014,Syracuse Orange,1.0,32.0,True,True
+203925,Joe Harris,2014,matched,normalized_name,1,51064.0,Joe Harris,2014,Virginia Cavaliers,1.0,37.0,True,True
+203926,Doug McDermott,2014,matched,normalized_name,1,51586.0,Doug McDermott,2014,Creighton Bluejays,1.0,35.0,True,True
+203928,Cory Jefferson,2014,matched,normalized_name,1,45990.0,Cory Jefferson,2014,Baylor Bears,1.0,38.0,True,True
+203930,Sean Kilpatrick,2014,matched,normalized_name,1,45942.0,Sean Kilpatrick,2014,Cincinnati Bearcats,1.0,34.0,True,True
+203932,Aaron Gordon,2014,matched,normalized_name,1,66320.0,Aaron Gordon,2014,Arizona Wildcats,1.0,38.0,True,True
+203933,T.J. Warren,2014,matched,normalized_name,1,61159.0,T.J. Warren,2014,NC State Wolfpack,1.0,35.0,True,True
+203934,Lamar Patterson,2014,matched,normalized_name,1,45577.0,Lamar Patterson,2014,Pittsburgh Panthers,1.0,36.0,True,True
+203935,Marcus Smart,2014,matched,normalized_name,1,61669.0,Marcus Smart,2014,Oklahoma State Cowboys,1.0,31.0,True,True
+203937,Kyle Anderson,2014,ambiguous_ncaa_name,not_matched,2,,,,,,,False,False
+203939,Dwight Powell,2014,matched,normalized_name,1,51365.0,Dwight Powell,2014,Stanford Cardinal,1.0,36.0,True,True
+203940,Adreian Payne,2014,matched,normalized_name,1,51545.0,Adreian Payne,2014,Michigan State Spartans,1.0,31.0,True,True
+203943,Noah Vonleh,2014,matched,normalized_name,1,66604.0,Noah Vonleh,2014,Indiana Hoosiers,1.0,30.0,True,True
+203944,Julius Randle,2014,matched,normalized_name,1,66618.0,Julius Randle,2014,Kentucky Wildcats,1.0,40.0,True,True
+203945,Alex Kirk,2014,matched,normalized_name,1,51164.0,Alex Kirk,2014,New Mexico Lobos,1.0,32.0,True,True
+203946,Cameron Bairstow,2014,matched,normalized_name,1,51163.0,Cameron Bairstow,2014,New Mexico Lobos,1.0,34.0,True,True
+203948,Johnny O’Bryant III,2014,matched,normalized_name,1,56357.0,Johnny O'Bryant III,2014,LSU Tigers,1.0,33.0,True,True
+203949,James McAdoo,2014,matched,explicit_alias,1,56967.0,James Michael McAdoo,2014,North Carolina Tar Heels,1.0,34.0,True,True
+203950,Jarnell Stokes,2014,matched,normalized_name,1,61049.0,Jarnell Stokes,2014,Tennessee Volunteers,1.0,37.0,True,True
+203957,Dante Exum,2014,unmatched,not_matched,0,,,,,,,True,False
+204456,TJ McConnell,2015,matched,normalized_name,1,51279.0,T.J. McConnell,2015,Arizona Wildcats,1.0,38.0,True,True
+1626145,Tyus Jones,2015,matched,normalized_name,1,3135046.0,Tyus Jones,2015,Duke Blue Devils,1.0,39.0,True,True
+1626146,Cliff Alexander,2015,matched,normalized_name,1,3133600.0,Cliff Alexander,2015,Kansas Jayhawks,1.0,28.0,True,True
+1626147,Justin Anderson,2015,matched,normalized_name,1,61766.0,Justin Anderson,2015,Virginia Cavaliers,1.0,26.0,True,True
+1626148,Anthony Brown,2015,ambiguous_ncaa_name,not_matched,2,,,,,,,False,False
+1626149,Montrezl Harrell,2015,matched,normalized_name,1,61793.0,Montrezl Harrell,2015,Louisville Cardinals,1.0,35.0,True,True
+1626150,Andrew Harrison,2015,matched,normalized_name,1,66615.0,Andrew Harrison,2015,Kentucky Wildcats,1.0,39.0,True,True
+1626151,Aaron Harrison,2015,matched,normalized_name,1,66614.0,Aaron Harrison,2015,Kentucky Wildcats,1.0,39.0,True,True
+1626153,Delon Wright,2015,matched,normalized_name,1,66236.0,Delon Wright,2015,Utah Utes,1.0,35.0,True,True
+1626154,R.J. Hunter,2015,matched,normalized_name,1,61299.0,RJ Hunter,2015,Georgia State Panthers,1.0,35.0,True,True
+1626155,Sam Dekker,2015,matched,normalized_name,1,61278.0,Sam Dekker,2015,Wisconsin Badgers,1.0,40.0,True,True
+1626156,D’Angelo Russell,2015,matched,normalized_name,1,3136776.0,D'Angelo Russell,2015,Ohio State Buckeyes,1.0,35.0,True,True
+1626158,Richaun Holmes,2015,matched,normalized_name,1,61438.0,Richaun Holmes,2015,Bowling Green Falcons,1.0,31.0,True,True
+1626159,Justise Winslow,2015,matched,normalized_name,1,3135047.0,Justise Winslow,2015,Duke Blue Devils,1.0,39.0,True,True
+1626161,Willie Cauley-Stein,2015,matched,normalized_name,1,61842.0,Willie Cauley-Stein,2015,Kentucky Wildcats,1.0,39.0,True,True
+1626162,Kelly Oubre,2015,matched,normalized_name,1,3133603.0,Kelly Oubre Jr.,2015,Kansas Jayhawks,1.0,36.0,True,True
+1626163,Frank Kaminsky,2015,matched,normalized_name,1,56769.0,Frank Kaminsky,2015,Wisconsin Badgers,1.0,39.0,True,True
+1626164,Devin Booker,2015,matched,normalized_name,1,3136193.0,Devin Booker,2015,Kentucky Wildcats,1.0,38.0,True,True
+1626166,Cameron Payne,2015,matched,normalized_name,1,66902.0,Cameron Payne,2015,Murray State Racers,1.0,35.0,True,True
+1626167,Myles Turner,2015,matched,normalized_name,1,3133628.0,Myles Turner,2015,Texas Longhorns,1.0,34.0,True,True
+1626168,Trey Lyles,2015,matched,normalized_name,1,3136196.0,Trey Lyles,2015,Kentucky Wildcats,1.0,36.0,True,True
+1626169,Stanley Johnson,2015,matched,normalized_name,1,3134881.0,Stanley Johnson,2015,Arizona Wildcats,1.0,38.0,True,True
+1626170,Jerian Grant,2015,matched,normalized_name,1,51374.0,Jerian Grant,2015,Notre Dame Fighting Irish,1.0,38.0,True,True
+1626171,Bobby Portis,2015,matched,normalized_name,1,66332.0,Bobby Portis,2015,Arkansas Razorbacks,1.0,36.0,True,True
+1626172,Kevon Looney,2015,matched,normalized_name,1,3155535.0,Kevon Looney,2015,UCLA Bruins,1.0,36.0,True,True
+1626173,Rashad Vaughn,2015,matched,normalized_name,1,3137733.0,Rashad Vaughn,2015,UNLV Rebels,1.0,23.0,True,True
+1626174,Christian Wood,2015,matched,normalized_name,1,66369.0,Christian Wood,2015,UNLV Rebels,1.0,33.0,True,True
+1626175,Jordan Mickey,2015,matched,normalized_name,1,66256.0,Jordan Mickey,2015,LSU Tigers,1.0,31.0,True,True
+1626176,Rakeem Christmas,2015,matched,normalized_name,1,56996.0,Rakeem Christmas,2015,Syracuse Orange,1.0,31.0,True,True
+1626177,Dakari Johnson,2015,matched,normalized_name,1,66620.0,Dakari Johnson,2015,Kentucky Wildcats,1.0,39.0,True,True
+1626178,Rondae Hollis-Jefferson,2015,matched,normalized_name,1,66321.0,Rondae Hollis-Jefferson,2015,Arizona Wildcats,1.0,38.0,True,True
+1626179,Terry Rozier,2015,matched,normalized_name,1,66587.0,Terry Rozier,2015,Louisville Cardinals,1.0,36.0,True,True
+1626181,Norman Powell,2015,matched,normalized_name,1,57041.0,Norman Powell,2015,UCLA Bruins,1.0,36.0,True,True
+1626183,Branden Dawson,2015,matched,normalized_name,1,56933.0,Branden Dawson,2015,Michigan State Spartans,1.0,35.0,True,True
+1626184,Chasson Randle,2015,matched,normalized_name,1,56466.0,Chasson Randle,2015,Stanford Cardinal,1.0,37.0,True,True
+1626185,Jarell Martin,2015,matched,normalized_name,1,66253.0,Jarell Martin,2015,LSU Tigers,1.0,33.0,True,True
+1626188,Quinn Cook,2015,matched,normalized_name,1,56113.0,Quinn Cook,2015,Duke Blue Devils,1.0,39.0,True,True
+1626191,Chris McCullough,2015,matched,normalized_name,1,3153165.0,Chris McCullough,2015,Syracuse Orange,1.0,16.0,True,True
+1626192,Pat Connaughton,2015,matched,normalized_name,1,56170.0,Pat Connaughton,2015,Notre Dame Fighting Irish,1.0,38.0,True,True
+1626203,Treveon Graham,2015,matched,normalized_name,1,57000.0,Treveon Graham,2015,VCU Rams,1.0,33.0,True,True
+1626205,Vince Hunter,2015,matched,explicit_alias,1,66785.0,Vince Shamar Hunter,2015,UTEP Miners,1.0,33.0,True,True
+1626210,Alan Williams,2015,matched,normalized_name,1,56824.0,Alan Williams,2015,UC Santa Barbara Gauchos,1.0,26.0,True,True
+1627735,Wade Baldwin IV,2016,matched,normalized_name,1,3136696.0,Wade Baldwin IV,2016,Vanderbilt Commodores,1.0,33.0,True,True
+1627736,Malik Beasley,2016,matched,normalized_name,1,3907822.0,Malik Beasley,2016,Florida State Seminoles,1.0,33.0,True,True
+1627737,Marquese Chriss,2016,matched,normalized_name,1,3907487.0,Marquese Chriss,2016,Washington Huskies,1.0,34.0,True,True
+1627738,Deyonta Davis,2016,matched,normalized_name,1,3937101.0,Deyonta Davis,2016,Michigan State Spartans,1.0,34.0,True,True
+1627739,Kris Dunn,2016,matched,normalized_name,1,61804.0,Kris Dunn,2016,Providence Friars,1.0,33.0,True,True
+1627740,Henry Ellenson,2016,matched,normalized_name,1,3906522.0,Henry Ellenson,2016,Marquette Golden Eagles,1.0,33.0,True,True
+1627741,Buddy Hield,2016,matched,normalized_name,1,61663.0,Buddy Hield,2016,Oklahoma Sooners,1.0,36.0,True,True
+1627743,Demetrius Jackson,2016,matched,normalized_name,1,66284.0,Demetrius Jackson,2016,Notre Dame Fighting Irish,1.0,35.0,True,True
+1627744,Brice Johnson,2016,matched,normalized_name,1,61653.0,Brice Johnson,2016,North Carolina Tar Heels,1.0,40.0,True,True
+1627745,Damian Jones,2016,matched,normalized_name,1,66275.0,Damian Jones,2016,Vanderbilt Commodores,1.0,33.0,True,True
+1627746,Skal Labissiere,2016,matched,normalized_name,1,3936296.0,Skal Labissiere,2016,Kentucky Wildcats,1.0,35.0,True,True
+1627747,Caris LeVert,2016,matched,normalized_name,1,61810.0,Caris LeVert,2016,Michigan Wolverines,1.0,14.0,True,True
+1627748,Thon Maker,2016,unmatched,not_matched,0,,,,,,,True,False
+1627751,Jakob Poeltl,2016,matched,normalized_name,1,3134908.0,Jakob Poeltl,2016,Utah Utes,1.0,35.0,True,True
+1627752,Taurean Prince,2016,matched,normalized_name,1,61572.0,Taurean Prince,2016,Baylor Bears,1.0,33.0,True,True
+1627753,Zhou Qi,2016,unmatched,not_matched,0,,,,,,,True,False
+1627754,Diamond Stone,2016,matched,normalized_name,1,3924880.0,Diamond Stone,2016,Maryland Terrapins,1.0,34.0,True,True
+1627755,Tyler Ulis,2016,matched,normalized_name,1,3136194.0,Tyler Ulis,2016,Kentucky Wildcats,1.0,34.0,True,True
+1627756,Denzel Valentine,2016,matched,normalized_name,1,62615.0,Denzel Valentine,2016,Michigan State Spartans,1.0,30.0,True,True
+1627757,Stephen Zimmerman,2016,matched,normalized_name,1,3936102.0,Stephen Zimmerman,2016,UNLV Rebels,1.0,26.0,True,True
+1627758,Ron Baker,2016,matched,normalized_name,1,57475.0,Ron Baker,2016,Wichita State Shockers,1.0,35.0,True,True
+1627759,Jaylen Brown,2016,matched,normalized_name,1,3917376.0,Jaylen Brown,2016,California Golden Bears,1.0,33.0,True,True
+1627761,DeAndre Bembry,2016,matched,normalized_name,1,67645.0,DeAndre' Bembry,2016,Saint Joseph's Hawks,1.0,36.0,True,True
+1627762,Joel Bolomboy,2016,matched,normalized_name,1,61231.0,Joel Bolomboy,2016,Weber State Wildcats,1.0,33.0,True,True
+1627763,Malcolm Brogdon,2016,matched,normalized_name,1,56119.0,Malcolm Brogdon,2016,Virginia Cavaliers,1.0,36.0,True,True
+1627767,Cheick Diallo,2016,matched,normalized_name,1,3919335.0,Cheick Diallo,2016,Kansas Jayhawks,1.0,27.0,True,True
+1627770,Kay Felder,2016,matched,normalized_name,1,66810.0,Kay Felder,2016,Oakland Golden Grizzlies,1.0,35.0,True,True
+1627771,Michael Gbinije,2016,matched,normalized_name,1,56115.0,Michael Gbinije,2016,Syracuse Orange,1.0,37.0,True,True
+1627772,Daniel Hamilton,2016,matched,normalized_name,1,3147351.0,Daniel Hamilton,2016,UConn Huskies,1.0,36.0,True,True
+1627774,Jake Layman,2016,matched,normalized_name,1,61796.0,Jake Layman,2016,Maryland Terrapins,1.0,35.0,True,True
+1627775,Patrick McCaw,2016,matched,normalized_name,1,3137730.0,Patrick McCaw,2016,UNLV Rebels,1.0,33.0,True,True
+1627777,Georges Niang,2016,matched,normalized_name,1,61212.0,Georges Niang,2016,Iowa State Cyclones,1.0,35.0,True,True
+1627778,Chinanu Onuaku,2016,matched,normalized_name,1,3147366.0,Chinanu Onuaku,2016,Louisville Cardinals,1.0,31.0,True,True
+1627779,Marcus Paige,2016,matched,normalized_name,1,61652.0,Marcus Paige,2016,North Carolina Tar Heels,1.0,34.0,True,True
+1627780,Gary Payton II,2016,matched,normalized_name,1,3134903.0,Gary Payton II,2016,Oregon State Beavers,1.0,32.0,True,True
+1627781,Malachi Richardson,2016,matched,normalized_name,1,3934663.0,Malachi Richardson,2016,Syracuse Orange,1.0,37.0,True,True
+1627782,Wayne Selden,2016,matched,normalized_name,1,67431.0,Wayne Selden,2016,Kansas Jayhawks,1.0,38.0,True,True
+1627783,Pascal Siakam,2016,matched,normalized_name,1,3149673.0,Pascal Siakam,2016,New Mexico State Aggies,1.0,34.0,True,True
+1627784,Jarrod Uthoff,2016,matched,normalized_name,1,56768.0,Jarrod Uthoff,2016,Iowa Hawkeyes,1.0,33.0,True,True
+1627785,Isaiah Whitehead,2016,matched,normalized_name,1,3136477.0,Isaiah Whitehead,2016,Seton Hall Pirates,1.0,33.0,True,True
+1627786,Troy Williams,2016,matched,normalized_name,1,66606.0,Troy Williams,2016,Indiana Hoosiers,1.0,35.0,True,True
+1627787,Kyle Wiltjer,2016,matched,normalized_name,1,56355.0,Kyle Wiltjer,2016,Gonzaga Bulldogs,1.0,36.0,True,True
+1627791,Ben Bentil,2016,matched,normalized_name,1,3136469.0,Ben Bentil,2016,Providence Friars,1.0,35.0,True,True
+1627827,Dorian Finney-Smith,2016,matched,normalized_name,1,56755.0,Dorian Finney-Smith,2016,Florida Gators,1.0,36.0,True,True
+1628365,Markelle Fultz,2017,matched,normalized_name,1,4066636.0,Markelle Fultz,2017,Washington Huskies,1.0,25.0,True,True
+1628368,De’Aaron Fox,2017,matched,normalized_name,1,4066259.0,De'Aaron Fox,2017,Kentucky Wildcats,1.0,36.0,True,True
+1628378,Donovan Mitchell,2017,matched,normalized_name,1,3908809.0,Donovan Mitchell,2017,Louisville Cardinals,1.0,34.0,True,True
+1628379,Luke Kennard,2017,matched,normalized_name,1,3913174.0,Luke Kennard,2017,Duke Blue Devils,1.0,37.0,True,True
+1628380,Zach Collins,2017,matched,normalized_name,1,4066650.0,Zach Collins,2017,Gonzaga Bulldogs,1.0,39.0,True,True
+1628381,John Collins,2017,matched,normalized_name,1,3908845.0,John Collins,2017,Wake Forest Demon Deacons,1.0,32.0,True,True
+1628382,Justin Jackson (UNC),2017,unmatched,not_matched,0,,,,,,,True,False
+1628383,Justin Patton,2017,matched,normalized_name,1,3912332.0,Justin Patton,2017,Creighton Bluejays,1.0,35.0,True,True
+1628384,OG Anunoby,2017,matched,normalized_name,1,3934719.0,O.G. Anunoby,2017,Indiana Hoosiers,1.0,16.0,True,True
+1628385,Harry Giles,2017,matched,normalized_name,1,4065649.0,Harry Giles III,2017,Duke Blue Devils,1.0,26.0,True,True
+1628386,Jarrett Allen,2017,matched,normalized_name,1,4066328.0,Jarrett Allen,2017,Texas Longhorns,1.0,32.0,True,True
+1628387,Ike Anigbogu,2017,matched,normalized_name,1,4066424.0,Ike Anigbogu,2017,UCLA Bruins,1.0,29.0,True,True
+1628388,TJ Leaf,2017,matched,normalized_name,1,4066425.0,T.J. Leaf,2017,UCLA Bruins,1.0,35.0,True,True
+1628389,Edrice Adebayo,2017,matched,explicit_alias,1,4066261.0,Bam Adebayo,2017,Kentucky Wildcats,1.0,38.0,True,True
+1628390,Terrance Ferguson,2017,unmatched,not_matched,0,,,,,,,True,False
+1628391,D.J. Wilson,2017,matched,normalized_name,1,3136491.0,D.J. Wilson,2017,Michigan Wolverines,1.0,38.0,True,True
+1628393,Jawun Evans,2017,matched,normalized_name,1,3912854.0,Jawun Evans,2017,Oklahoma State Cowboys,1.0,32.0,True,True
+1628395,Jordan Bell,2017,ambiguous_ncaa_name,not_matched,2,,,,,,,False,False
+1628396,Tony Bradley,2017,matched,normalized_name,1,4065673.0,Tony Bradley,2017,North Carolina Tar Heels,1.0,38.0,True,True
+1628397,Ivan Rabb,2017,matched,normalized_name,1,3917378.0,Ivan Rabb,2017,California Golden Bears,1.0,31.0,True,True
+1628398,Kyle Kuzma,2017,matched,normalized_name,1,3134907.0,Kyle Kuzma,2017,Utah Utes,1.0,28.0,True,True
+1628399,Tyler Lydon,2017,matched,normalized_name,1,3934662.0,Tyler Lydon,2017,Syracuse Orange,1.0,34.0,True,True
+1628400,Semi Ojeleye,2017,matched,normalized_name,1,66915.0,Semi Ojeleye,2017,SMU Mustangs,1.0,35.0,True,True
+1628401,Derrick White,2017,matched,normalized_name,1,67845.0,Derrick White,2017,Colorado Buffaloes,1.0,33.0,True,True
+1628402,Frank Jackson,2017,matched,normalized_name,1,4065651.0,Frank Jackson,2017,Duke Blue Devils,1.0,36.0,True,True
+1628403,Caleb Swanigan,2016,matched,normalized_name,1,3906671.0,Caleb Swanigan,2016,Purdue Boilermakers,1.0,34.0,True,True
+1628404,Josh Hart,2016,matched,normalized_name,1,66173.0,Josh Hart,2016,Villanova Wildcats,1.0,39.0,True,True
+1628405,Johnathan Motley,2017,matched,normalized_name,1,66298.0,Johnathan Motley,2017,Baylor Bears,1.0,34.0,True,True
+1628407,Dwayne Bacon,2017,matched,normalized_name,1,3907821.0,Dwayne Bacon,2017,Florida State Seminoles,1.0,35.0,True,True
+1628408,PJ Dozier,2017,matched,normalized_name,1,3923250.0,PJ Dozier,2017,South Carolina Gamecocks,1.0,36.0,True,True
+1628409,Alec Peters,2017,matched,normalized_name,1,66821.0,Alec Peters,2017,Valparaiso Beacons,1.0,29.0,True,True
+1628410,Edmond Sumner,2017,matched,normalized_name,1,3136485.0,Edmond Sumner,2017,Xavier Musketeers,1.0,20.0,True,True
+1628411,Wesley Iwundu,2017,matched,explicit_alias,1,67249.0,Wes Iwundu,2017,Kansas State Wildcats,1.0,34.0,True,True
+1628412,Frank Mason III,2017,matched,normalized_name,1,67430.0,Frank Mason III,2017,Kansas Jayhawks,1.0,36.0,True,True
+1628414,Sindarius Thornwell,2017,matched,normalized_name,1,66270.0,Sindarius Thornwell,2017,South Carolina Gamecocks,1.0,31.0,True,True
+1628415,Dillon Brooks,2017,matched,normalized_name,1,3155526.0,Dillon Brooks,2017,Oregon Ducks,1.0,35.0,True,True
+1628416,Tyler Dorsey,2017,matched,normalized_name,1,3915560.0,Tyler Dorsey,2017,Oregon Ducks,1.0,39.0,True,True
+1628417,Jaron Blossomgame,2016,matched,normalized_name,1,61835.0,Jaron Blossomgame,2016,Clemson Tigers,1.0,31.0,True,True
+1628418,Thomas Bryant,2017,matched,normalized_name,1,3934723.0,Thomas Bryant,2017,Indiana Hoosiers,1.0,33.0,True,True
+1628420,Monte Morris,2017,matched,normalized_name,1,66146.0,Monte Morris,2017,Iowa State Cyclones,1.0,35.0,True,True
+1628421,Devin Robinson,2017,matched,normalized_name,1,3137798.0,Devin Robinson,2017,Florida Gators,1.0,36.0,True,True
+1628422,Damyean Dotson,2017,matched,normalized_name,1,61674.0,Damyean Dotson,2017,Houston Cougars,1.0,32.0,True,True
+1628424,Kobi Simmons,2017,matched,normalized_name,1,4066335.0,Kobi Simmons,2017,Arizona Wildcats,1.0,37.0,True,True
+1628430,Nigel Williams-Goss,2017,matched,normalized_name,1,67814.0,Nigel Williams-Goss,2017,Gonzaga Bulldogs,1.0,38.0,True,True
+1628432,Davon Reed,2017,matched,normalized_name,1,66130.0,Davon Reed,2017,Miami Hurricanes,1.0,33.0,True,True
+1628439,Isaiah Hicks,2017,matched,normalized_name,1,66874.0,Isaiah Hicks,2017,North Carolina Tar Heels,1.0,39.0,True,True
+1628443,Kadeem Allen,2017,matched,normalized_name,1,3134880.0,Kadeem Allen,2017,Arizona Wildcats,1.0,34.0,True,True
+1628449,Chris Boucher,2017,matched,normalized_name,1,3948153.0,Chris Boucher,2017,Oregon Ducks,1.0,31.0,True,True
+1628476,Derrick Walton Jr.,2017,matched,normalized_name,1,66184.0,Derrick Walton Jr.,2017,Michigan Wolverines,1.0,38.0,True,True
+1628502,Nigel Hayes,2016,matched,normalized_name,1,66198.0,Nigel Hayes,2016,Wisconsin Badgers,1.0,34.0,True,True
+1628503,Jamel Artis,2017,matched,normalized_name,1,66287.0,Jamel Artis,2017,Pittsburgh Panthers,1.0,32.0,True,True
+1628515,Isaiah Briscoe,2017,matched,normalized_name,1,3936294.0,Isaiah Briscoe,2017,Kentucky Wildcats,1.0,36.0,True,True
+1628959,Rawle Alkins,2017,matched,normalized_name,1,4066334.0,Rawle Alkins,2017,Arizona Wildcats,1.0,37.0,True,True
+1628960,Grayson Allen,2018,matched,normalized_name,1,3135045.0,Grayson Allen,2018,Duke Blue Devils,1.0,37.0,True,True
+1628961,Kostas Antetokounmpo,2018,matched,normalized_name,1,4066490.0,Kostas Antetokounmpo,2018,Dayton Flyers,1.0,29.0,True,True
+1628962,Udoka Azubuike,2018,matched,normalized_name,1,4066299.0,Udoka Azubuike,2018,Kansas Jayhawks,1.0,36.0,True,True
+1628964,Mohamed Bamba,2018,matched,explicit_alias,1,4277919.0,Mo Bamba,2018,Texas Longhorns,1.0,30.0,True,True
+1628966,Keita Bates-Diop,2018,matched,normalized_name,1,3136779.0,Keita Bates-Diop,2018,Ohio State Buckeyes,1.0,34.0,True,True
+1628968,Brian Bowen,2018,unmatched,not_matched,0,,,,,,,True,False
+1628970,Miles Bridges,2018,matched,normalized_name,1,4066383.0,Miles Bridges,2018,Michigan State Spartans,1.0,34.0,True,True
+1628971,Bruce Brown,2018,matched,normalized_name,1,4065670.0,Bruce Brown,2018,Miami Hurricanes,1.0,19.0,True,True
+1628972,Troy Brown,2018,matched,normalized_name,1,4278508.0,Troy Brown Jr.,2018,Oregon Ducks,1.0,35.0,True,True
+1628973,Jalen Brunson,2018,matched,normalized_name,1,3934672.0,Jalen Brunson,2018,Villanova Wildcats,1.0,40.0,True,True
+1628975,Jevon Carter,2018,matched,normalized_name,1,3133635.0,Jevon Carter,2018,West Virginia Mountaineers,1.0,37.0,True,True
+1628976,Wendell Carter,2018,matched,normalized_name,1,4277847.0,Wendell Carter Jr.,2018,Duke Blue Devils,1.0,37.0,True,True
+1628977,Hamidou Diallo,2017,unmatched,not_matched,0,,,,,,,True,False
+1628978,Donte DiVincenzo,2018,matched,normalized_name,1,3934673.0,Donte DiVincenzo,2018,Villanova Wildcats,1.0,40.0,True,True
+1628979,Trevon Duval,2018,matched,normalized_name,1,4277842.0,Trevon Duval,2018,Duke Blue Devils,1.0,37.0,True,True
+1628980,Jacob Evans,2018,matched,normalized_name,1,3934621.0,Jacob Evans,2018,Cincinnati Bearcats,1.0,36.0,True,True
+1628981,Bruno Fernando,2018,matched,normalized_name,1,4277952.0,Bruno Fernando,2018,Maryland Terrapins,1.0,30.0,True,True
+1628982,Melvin Frazier,2018,matched,normalized_name,1,3913546.0,Melvin Frazier Jr.,2018,Tulane Green Wave,1.0,30.0,True,True
+1628983,Shai Gilgeous-Alexander,2018,matched,normalized_name,1,4278073.0,Shai Gilgeous-Alexander,2018,Kentucky Wildcats,1.0,37.0,True,True
+1628984,Devonte Graham,2018,matched,normalized_name,1,3133601.0,Devonte' Graham,2018,Kansas Jayhawks,1.0,39.0,True,True
+1628985,Devon Hall,2018,matched,normalized_name,1,66138.0,Devon Hall,2018,Virginia Cavaliers,1.0,34.0,True,True
+1628987,Kevin Hervey,2018,matched,normalized_name,1,3143565.0,Kevin Hervey,2018,UT Arlington Mavericks,1.0,33.0,True,True
+1628988,Aaron Holiday,2018,matched,normalized_name,1,3922230.0,Aaron Holiday,2018,UCLA Bruins,1.0,33.0,True,True
+1628989,Kevin Huerter,2018,matched,normalized_name,1,4066372.0,Kevin Huerter,2018,Maryland Terrapins,1.0,32.0,True,True
+1628991,Jaren Jackson,2018,matched,normalized_name,1,4277961.0,Jaren Jackson Jr.,2018,Michigan State Spartans,1.0,35.0,True,True
+1628993,Alize Johnson,2018,matched,normalized_name,1,4067045.0,Alize Johnson,2018,Missouri State Bears,1.0,33.0,True,True
+1628994,George King,2018,matched,normalized_name,1,66205.0,George King,2018,Colorado Buffaloes,1.0,32.0,True,True
+1628995,Kevin Knox,2018,matched,normalized_name,1,4278075.0,Kevin Knox II,2018,Kentucky Wildcats,1.0,37.0,True,True
+1628997,Caleb Martin,2018,ambiguous_ncaa_name,not_matched,2,,,,,,,False,False
+1628998,Cody Martin,2018,matched,normalized_name,1,3138161.0,Cody Martin,2018,Nevada Wolf Pack,1.0,36.0,True,True
+1628999,Yante Maten,2018,matched,normalized_name,1,3136183.0,Yante Maten,2018,Georgia Bulldogs,1.0,33.0,True,True
+1629001,DeAnthony Melton,2018,unmatched,not_matched,0,,,,,,,True,False
+1629002,Chimezie Metu,2018,matched,normalized_name,1,3914283.0,Chimezie Metu,2018,USC Trojans,1.0,34.0,True,True
+1629003,Shake Milton,2018,matched,normalized_name,1,3915195.0,Shake Milton,2018,SMU Mustangs,1.0,22.0,True,True
+1629004,Svi Mykhailiuk,2017,matched,normalized_name,1,3133602.0,Svi Mykhailiuk,2017,Kansas Jayhawks,1.0,36.0,True,True
+1629006,Josh Okogie,2018,matched,normalized_name,1,4065663.0,Josh Okogie,2018,Georgia Tech Yellow Jackets,1.0,24.0,True,True
+1629007,Jontay Porter,2018,matched,normalized_name,1,4278103.0,Jontay Porter,2018,Missouri Tigers,1.0,33.0,True,True
+1629008,Michael Porter,2018,matched,normalized_name,1,4278104.0,Michael Porter Jr.,2018,Missouri Tigers,1.0,3.0,True,True
+1629010,Jerome Robinson,2018,matched,normalized_name,1,3943606.0,Jerome Robinson,2018,Boston College Eagles,1.0,35.0,True,True
+1629012,Collin Sexton,2018,matched,normalized_name,1,4277811.0,Collin Sexton,2018,Alabama Crimson Tide,1.0,33.0,True,True
+1629013,Landry Shamet,2018,matched,normalized_name,1,3914044.0,Landry Shamet,2018,Wichita State Shockers,1.0,32.0,True,True
+1629014,Anfernee Simons,2018,unmatched,not_matched,0,,,,,,,True,False
+1629015,Zhaire Smith,2018,matched,normalized_name,1,4277923.0,Zhaire Smith,2018,Texas Tech Red Raiders,1.0,37.0,True,True
+1629016,Omari Spellman,2018,matched,normalized_name,1,4065836.0,Omari Spellman,2018,Villanova Wildcats,1.0,40.0,True,True
+1629017,Khyri Thomas,2018,matched,normalized_name,1,3912334.0,Khyri Thomas,2018,Creighton Bluejays,1.0,33.0,True,True
+1629018,Gary Trent,2018,matched,normalized_name,1,4277843.0,Gary Trent Jr.,2018,Duke Blue Devils,1.0,37.0,True,True
+1629019,Allonzo Trier,2018,matched,normalized_name,1,3907525.0,Allonzo Trier,2018,Arizona Wildcats,1.0,33.0,True,True
+1629021,Moritz Wagner,2017,matched,normalized_name,1,3150844.0,Moritz Wagner,2017,Michigan Wolverines,1.0,38.0,True,True
+1629022,Lonnie Walker,2018,matched,normalized_name,1,4277890.0,Lonnie Walker IV,2018,Miami Hurricanes,1.0,32.0,True,True
+1629023,PJ Washington,2018,matched,normalized_name,1,4278078.0,P.J. Washington,2018,Kentucky Wildcats,1.0,37.0,True,True
+1629026,Kenrich Williams,2018,matched,normalized_name,1,3133626.0,Kenrich Williams,2018,TCU Horned Frogs,1.0,32.0,True,True
+1629027,Trae Young,2018,matched,normalized_name,1,4277905.0,Trae Young,2018,Oklahoma Sooners,1.0,32.0,True,True
+1629033,Theo Pinson,2018,matched,normalized_name,1,3138154.0,Theo Pinson,2018,North Carolina Tar Heels,1.0,37.0,True,True
+1629034,Ray Spalding,2018,matched,normalized_name,1,3908806.0,Ray Spalding,2018,Louisville Cardinals,1.0,36.0,True,True
+1629035,Carsen Edwards,2018,matched,normalized_name,1,4066407.0,Carsen Edwards,2018,Purdue Boilermakers,1.0,37.0,True,True
+1629044,Shamorie Ponds,2019,matched,normalized_name,1,4065834.0,Shamorie Ponds,2019,St. John's Red Storm,1.0,33.0,True,True
+1629052,O'Shae Brissett,2019,matched,normalized_name,1,4278031.0,Oshae Brissett,2019,Syracuse Orange,1.0,34.0,True,True
+1629056,Terence Davis,2019,matched,normalized_name,1,3919454.0,Terence Davis,2019,Ole Miss Rebels,1.0,33.0,True,True
+1629065,Ky Bowman,2019,matched,normalized_name,1,4065635.0,Ky Bowman,2019,Boston College Eagles,1.0,31.0,True,True
+1629076,Tyler Cook,2019,matched,normalized_name,1,4066367.0,Tyler Cook,2019,Iowa Hawkeyes,1.0,33.0,True,True
+1629118,Thomas Welsh,2017,matched,normalized_name,1,3155536.0,Thomas Welsh,2017,UCLA Bruins,1.0,32.0,True,True
+1629603,Mamadi Diakite,2020,matched,normalized_name,1,3947156.0,Mamadi Diakite,2020,Virginia Cavaliers,1.0,30.0,True,True
+1629604,CJ Elleby,2020,matched,normalized_name,1,4397166.0,CJ Elleby,2020,Washington State Cougars,1.0,32.0,True,True
+1629605,Tacko Fall,2019,matched,normalized_name,1,3904625.0,Tacko Fall,2019,UCF Knights,1.0,33.0,True,True
+1629607,Jared Harper,2019,matched,normalized_name,1,4066248.0,Jared Harper,2019,Auburn Tigers,1.0,40.0,True,True
+1629608,Dewan Hernandez,2019,unmatched,not_matched,0,,,,,,,True,False
+1629610,DaQuan Jeffries,2019,matched,normalized_name,1,3913220.0,DaQuan Jeffries,2019,Tulsa Golden Hurricane,1.0,31.0,True,True
+1629611,Terance Mann,2019,matched,normalized_name,1,3907823.0,Terance Mann,2019,Florida State Seminoles,1.0,37.0,True,True
+1629614,Andrew Nembhard,2022,matched,normalized_name,1,4395712.0,Andrew Nembhard,2022,Gonzaga Bulldogs,1.0,32.0,True,True
+1629617,Reggie Perry,2019,matched,normalized_name,1,4396959.0,Reggie Perry,2019,Mississippi State Bulldogs,1.0,34.0,True,True
+1629619,Myles Powell,2020,matched,normalized_name,1,4065816.0,Myles Powell,2020,Seton Hall Pirates,1.0,28.0,True,True
+1629621,Marial Shayok,2019,matched,normalized_name,1,3138201.0,Marial Shayok,2019,Iowa State Cyclones,1.0,34.0,True,True
+1629626,Bol Bol,2019,matched,normalized_name,1,4397102.0,Bol Bol,2019,Oregon Ducks,1.0,9.0,True,True
+1629627,Zion Williamson,2019,matched,normalized_name,1,4395628.0,Zion Williamson,2019,Duke Blue Devils,1.0,33.0,True,True
+1629628,RJ Barrett,2019,matched,normalized_name,1,4395625.0,RJ Barrett,2019,Duke Blue Devils,1.0,38.0,True,True
+1629629,Cameron Reddish,2019,matched,explicit_alias,1,4395627.0,Cam Reddish,2019,Duke Blue Devils,1.0,36.0,True,True
+1629630,Ja Morant,2019,matched,normalized_name,1,4279888.0,Ja Morant,2019,Murray State Racers,1.0,33.0,True,True
+1629632,Coby White,2019,matched,normalized_name,1,4395651.0,Coby White,2019,North Carolina Tar Heels,1.0,35.0,True,True
+1629633,Jarrett Culver,2019,matched,normalized_name,1,4277928.0,Jarrett Culver,2019,Texas Tech Red Raiders,1.0,38.0,True,True
+1629634,Brandon Clarke,2019,matched,normalized_name,1,3906665.0,Brandon Clarke,2019,Gonzaga Bulldogs,1.0,37.0,True,True
+1629636,Darius Garland,2019,matched,normalized_name,1,4396907.0,Darius Garland,2019,Vanderbilt Commodores,1.0,5.0,True,True
+1629637,Jaxson Hayes,2019,matched,normalized_name,1,4397077.0,Jaxson Hayes,2019,Texas Longhorns,1.0,32.0,True,True
+1629638,Nickeil Alexander-Walker,2019,matched,normalized_name,1,4278039.0,Nickeil Alexander-Walker,2019,Virginia Tech Hokies,1.0,34.0,True,True
+1629639,Tyler Herro,2019,matched,normalized_name,1,4395725.0,Tyler Herro,2019,Kentucky Wildcats,1.0,37.0,True,True
+1629640,Keldon Johnson,2019,matched,normalized_name,1,4395723.0,Keldon Johnson,2019,Kentucky Wildcats,1.0,37.0,True,True
+1629641,Romeo Langford,2019,matched,normalized_name,1,4397008.0,Romeo Langford,2019,Indiana Hoosiers,1.0,32.0,True,True
+1629642,Nassir Little,2019,matched,normalized_name,1,4395652.0,Nassir Little,2019,North Carolina Tar Heels,1.0,36.0,True,True
+1629644,KZ Okpala,2019,matched,normalized_name,1,4278521.0,KZ Okpala,2019,Stanford Cardinal,1.0,29.0,True,True
+1629645,Kevin Porter Jr.,2019,matched,normalized_name,1,4397140.0,Kevin Porter Jr.,2019,USC Trojans,1.0,21.0,True,True
+1629646,Charles Bassey,2019,matched,normalized_name,1,4397886.0,Charles Bassey,2019,Western Kentucky Hilltoppers,1.0,34.0,True,True
+1629647,Darius Bazley,2019,unmatched,not_matched,0,,,,,,,True,False
+1629648,Jordan Bone,2019,matched,normalized_name,1,4066212.0,Jordan Bone,2019,Tennessee Volunteers,1.0,37.0,True,True
+1629649,Ignas Brazdeikis,2019,matched,normalized_name,1,4397205.0,Ignas Brazdeikis,2019,Michigan Wolverines,1.0,37.0,True,True
+1629650,Moses Brown,2019,matched,normalized_name,1,4397126.0,Moses Brown,2019,UCLA Bruins,1.0,32.0,True,True
+1629651,Nicolas Claxton,2019,matched,explicit_alias,1,4278067.0,Nic Claxton,2019,Georgia Bulldogs,1.0,32.0,True,True
+1629652,Luguentz Dort,2019,matched,normalized_name,1,4397020.0,Luguentz Dort,2019,Arizona State Sun Devils,1.0,34.0,True,True
+1629653,Devon Dotson,2019,matched,normalized_name,1,4397016.0,Devon Dotson,2019,Kansas Jayhawks,1.0,36.0,True,True
+1629655,Daniel Gafford,2019,matched,normalized_name,1,4278049.0,Daniel Gafford,2019,Arkansas Razorbacks,1.0,32.0,True,True
+1629656,Quentin Grimes,2019,matched,normalized_name,1,4397014.0,Quentin Grimes,2019,Kansas Jayhawks,1.0,36.0,True,True
+1629657,Kyle Guy,2019,matched,normalized_name,1,4065730.0,Kyle Guy,2019,Virginia Cavaliers,1.0,38.0,True,True
+1629658,Jalen Hoard,2019,matched,explicit_alias,1,4395688.0,Jaylen Hoard,2019,Wake Forest Demon Deacons,1.0,31.0,True,True
+1629659,Talen Horton-Tucker,2019,matched,normalized_name,1,4396991.0,Talen Horton-Tucker,2019,Iowa State Cyclones,1.0,35.0,True,True
+1629660,Ty Jerome,2019,matched,normalized_name,1,4065733.0,Ty Jerome,2019,Virginia Cavaliers,1.0,37.0,True,True
+1629661,Cameron Johnson,2019,matched,normalized_name,1,3138196.0,Cameron Johnson,2019,North Carolina Tar Heels,1.0,36.0,True,True
+1629662,Mfiondu Kabengele,2019,matched,normalized_name,1,4065660.0,Mfiondu Kabengele,2019,Florida State Seminoles,1.0,37.0,True,True
+1629663,Louis King,2019,matched,normalized_name,1,4397103.0,Louis King,2019,Oregon Ducks,1.0,31.0,True,True
+1629665,Jalen Lecque,2019,unmatched,not_matched,0,,,,,,,True,False
+1629667,Jalen McDaniels,2019,matched,normalized_name,1,4066731.0,Jalen McDaniels,2019,San Diego State Aztecs,1.0,34.0,True,True
+1629668,Zach Norvell Jr.,2019,matched,normalized_name,1,4066649.0,Zach Norvell Jr.,2019,Gonzaga Bulldogs,1.0,37.0,True,True
+1629669,Jaylen Nowell,2019,matched,normalized_name,1,4278541.0,Jaylen Nowell,2019,Washington Huskies,1.0,36.0,True,True
+1629670,Jordan Nwora,2019,matched,normalized_name,1,4277883.0,Jordan Nwora,2019,Louisville Cardinals,1.0,34.0,True,True
+1629671,Miye Oni,2019,matched,normalized_name,1,4066851.0,Miye Oni,2019,Yale Bulldogs,1.0,29.0,True,True
+1629672,Eric Paschall,2019,matched,normalized_name,1,3133817.0,Eric Paschall,2019,Villanova Wildcats,1.0,36.0,True,True
+1629673,Jordan Poole,2019,matched,normalized_name,1,4277956.0,Jordan Poole,2019,Michigan Wolverines,1.0,37.0,True,True
+1629674,Neemias Queta,2019,matched,normalized_name,1,4397424.0,Neemias Queta,2019,Utah State Aggies,1.0,35.0,True,True
+1629675,Naz Reid,2019,matched,normalized_name,1,4396971.0,Naz Reid,2019,LSU Tigers,1.0,34.0,True,True
+1629676,Isaiah Roby,2019,matched,normalized_name,1,4066392.0,Isaiah Roby,2019,Nebraska Cornhuskers,1.0,35.0,True,True
+1629677,Luka Samanic,2019,unmatched,not_matched,0,,,,,,,True,False
+1629678,Admiral Schofield,2019,matched,normalized_name,1,3918423.0,Admiral Schofield,2019,Tennessee Volunteers,1.0,37.0,True,True
+1629682,Tremont Waters,2019,matched,normalized_name,1,4278080.0,Tremont Waters,2019,LSU Tigers,1.0,33.0,True,True
+1629683,Quinndary Weatherspoon,2019,matched,normalized_name,1,3907358.0,Quinndary Weatherspoon,2019,Mississippi State Bulldogs,1.0,34.0,True,True
+1629684,Grant Williams,2019,matched,normalized_name,1,4066218.0,Grant Williams,2019,Tennessee Volunteers,1.0,37.0,True,True
+1629685,Dylan Windler,2019,matched,normalized_name,1,3906786.0,Dylan Windler,2019,Belmont Bruins,1.0,33.0,True,True
+1630173,Precious Achiuwa,2020,matched,normalized_name,1,4431679.0,Precious Achiuwa,2020,Memphis Tigers,1.0,31.0,True,True
+1630177,Theo Maledon,2020,unmatched,not_matched,0,,,,,,,True,False
+1630179,Tyrell Terry,2020,matched,normalized_name,1,4431747.0,Tyrell Terry,2020,Stanford Cardinal,1.0,31.0,True,True
+1630182,Josh Green,2020,ambiguous_ncaa_name,not_matched,2,,,,,,,False,False
+1630186,Jahmi'us Ramsey,2020,matched,normalized_name,1,4431688.0,Jahmi'us Ramsey,2020,Texas Tech Red Raiders,1.0,27.0,True,True
+1630188,Jalen Smith,2020,matched,normalized_name,1,4397189.0,Jalen Smith,2020,Maryland Terrapins,1.0,31.0,True,True
+1630189,Tyler Bey,2020,matched,normalized_name,1,4278502.0,Tyler Bey,2020,Colorado Buffaloes,1.0,31.0,True,True
+1630190,Elijah Hughes,2020,matched,normalized_name,1,4066446.0,Elijah Hughes,2020,Syracuse Orange,1.0,32.0,True,True
+1630191,Isaiah Stewart,2020,matched,normalized_name,1,4432810.0,Isaiah Stewart,2020,Washington Huskies,1.0,32.0,True,True
+1630192,Zeke Nnaji,2020,matched,normalized_name,1,4431690.0,Zeke Nnaji,2020,Arizona Wildcats,1.0,32.0,True,True
+1630193,Immanuel Quickley,2020,matched,normalized_name,1,4395724.0,Immanuel Quickley,2020,Kentucky Wildcats,1.0,30.0,True,True
+1630194,Paul Reed Jr.,2020,matched,normalized_name,1,4278562.0,Paul Reed,2020,DePaul Blue Demons,1.0,29.0,True,True
+1630198,Isaiah Joe,2020,matched,normalized_name,1,4395702.0,Isaiah Joe,2020,Arkansas Razorbacks,1.0,26.0,True,True
+1630199,Cassius Stanley,2020,matched,normalized_name,1,4431686.0,Cassius Stanley,2020,Duke Blue Devils,1.0,29.0,True,True
+1630203,Grant Riller,2020,matched,normalized_name,1,3912295.0,Grant Riller,2020,Charleston Cougars,1.0,31.0,True,True
+1630204,Ashton Hagans,2020,matched,normalized_name,1,4395722.0,Ashton Hagans,2020,Kentucky Wildcats,1.0,30.0,True,True
+1630205,Lamar Stevens,2020,matched,normalized_name,1,4066405.0,Lamar Stevens,2020,Penn State Nittany Lions,1.0,31.0,True,True
+1630206,Jayden Scrubb,2020,unmatched,not_matched,0,,,,,,,True,False
+1630208,Nick Richards,2020,matched,normalized_name,1,4278076.0,Nick Richards,2020,Kentucky Wildcats,1.0,31.0,True,True
+1630210,Markus Howard,2020,matched,normalized_name,1,4065805.0,Markus Howard,2020,Marquette Golden Eagles,1.0,29.0,True,True
+1630211,Karim Mane,2020,unmatched,not_matched,0,,,,,,,True,False
+1630214,Xavier Tillman Sr.,2020,matched,normalized_name,1,4277964.0,Xavier Tillman,2020,Michigan State Spartans,1.0,31.0,True,True
+1630215,Jared Butler,2021,matched,normalized_name,1,4395695.0,Jared Butler,2021,Baylor Bears,1.0,30.0,True,True
+1630216,Cassius Winston,2020,matched,normalized_name,1,4066382.0,Cassius Winston,2020,Michigan State Spartans,1.0,30.0,True,True
+1630218,Robert Woodard II,2020,matched,normalized_name,1,4396961.0,Robert Woodard II,2020,Mississippi State Bulldogs,1.0,31.0,True,True
+1630219,Skylar Mays,2020,matched,normalized_name,1,4066269.0,Skylar Mays,2020,LSU Tigers,1.0,31.0,True,True
+1630221,Joshua Hall,2020,unmatched,not_matched,0,,,,,,,True,False
+1630222,Mason Jones,2020,matched,normalized_name,1,4395704.0,Mason Jones,2020,Arkansas Razorbacks,1.0,31.0,True,True
+1630223,Jalen Harris,2020,ambiguous_ncaa_name,not_matched,2,,,,,,,False,False
+1630224,Jalen Green,2021,unmatched,not_matched,0,,,,,,,True,False
+1630225,Isaiah Todd,2021,unmatched,not_matched,0,,,,,,,True,False
+1630227,Daishen Nix,2021,unmatched,not_matched,0,,,,,,,True,False
+1630228,Jonathan Kuminga,2021,unmatched,not_matched,0,,,,,,,True,False
+1630230,Naji Marshall,2020,matched,normalized_name,1,4278594.0,Naji Marshall,2020,Xavier Musketeers,1.0,31.0,True,True
+1630231,Kenyon Martin Jr.,2020,unmatched,not_matched,0,,,,,,,True,False
+1630233,Nathan Knight,2020,matched,normalized_name,1,4067325.0,Nathan Knight,2020,William & Mary Tribe,1.0,32.0,True,True
+1630234,Ty-Shon Alexander,2020,matched,normalized_name,1,4278555.0,Ty-Shon Alexander,2020,Creighton Bluejays,1.0,31.0,True,True
+1630235,Trent Forrest,2020,matched,normalized_name,1,4065656.0,Trent Forrest,2020,Florida State Seminoles,1.0,31.0,True,True
+1630245,Ayo Dosunmu,2021,matched,normalized_name,1,4397002.0,Ayo Dosunmu,2021,Illinois Fighting Illini,1.0,28.0,True,True
+1630525,David Johnson,2021,ambiguous_ncaa_name,not_matched,2,,,,,,,False,False
+1630526,Jeremiah Robinson-Earl,2021,matched,normalized_name,1,4432813.0,Jeremiah Robinson-Earl,2021,Villanova Wildcats,1.0,25.0,True,True
+1630527,Brandon Boston Jr.,2021,matched,normalized_name,1,4432162.0,Brandon Boston Jr.,2021,Kentucky Wildcats,1.0,25.0,True,True
+1630528,Josh Christopher,2021,matched,normalized_name,1,4432168.0,Josh Christopher,2021,Arizona State Sun Devils,1.0,15.0,True,True
+1630529,Herbert Jones,2021,matched,normalized_name,1,4277813.0,Herbert Jones,2021,Alabama Crimson Tide,1.0,33.0,True,True
+1630530,Trey Murphy III,2021,matched,normalized_name,1,4397688.0,Trey Murphy III,2021,Virginia Cavaliers,1.0,25.0,True,True
+1630531,Jaden Springer,2021,matched,normalized_name,1,4432164.0,Jaden Springer,2021,Tennessee Volunteers,1.0,25.0,True,True
+1630533,Ziaire Williams,2021,matched,normalized_name,1,4433137.0,Ziaire Williams,2021,Stanford Cardinal,1.0,20.0,True,True
+1630534,Ochai Agbaji,2021,matched,normalized_name,1,4397018.0,Ochai Agbaji,2021,Kansas Jayhawks,1.0,30.0,True,True
+1630535,Greg Brown III,2021,matched,normalized_name,1,4432161.0,Greg Brown III,2021,Texas Longhorns,1.0,26.0,True,True
+1630536,Sharife Cooper,2021,matched,normalized_name,1,4432173.0,Sharife Cooper,2021,Auburn Tigers,1.0,12.0,True,True
+1630538,Nah'Shon Hyland,2021,matched,explicit_alias,1,4592492.0,Bones Hyland,2021,VCU Rams,1.0,24.0,True,True
+1630539,Kai Jones,2021,matched,normalized_name,1,4431699.0,Kai Jones,2021,Texas Longhorns,1.0,26.0,True,True
+1630540,Miles McBride,2021,matched,normalized_name,1,4431823.0,Miles McBride,2021,West Virginia Mountaineers,1.0,29.0,True,True
+1630541,Moses Moody,2021,matched,normalized_name,1,4432171.0,Moses Moody,2021,Arkansas Razorbacks,1.0,32.0,True,True
+1630543,Isaiah Jackson,2021,matched,normalized_name,1,4432170.0,Isaiah Jackson,2021,Kentucky Wildcats,1.0,25.0,True,True
+1630544,Tre Mann,2021,matched,normalized_name,1,4432819.0,Tre Mann,2021,Florida Gators,1.0,24.0,True,True
+1630547,James Bouknight,2021,matched,normalized_name,1,4431712.0,James Bouknight,2021,UConn Huskies,1.0,15.0,True,True
+1630548,Johnny Juzang,2021,matched,normalized_name,1,4432817.0,Johnny Juzang,2021,UCLA Bruins,1.0,27.0,True,True
+1630549,Day'Ron Sharpe,2021,matched,normalized_name,1,4432194.0,Day'Ron Sharpe,2021,North Carolina Tar Heels,1.0,29.0,True,True
+1630550,JT Thor,2021,matched,normalized_name,1,4702233.0,JT Thor,2021,Auburn Tigers,1.0,27.0,True,True
+1630551,Justin Champagnie,2021,matched,normalized_name,1,4432907.0,Justin Champagnie,2021,Pittsburgh Panthers,1.0,20.0,True,True
+1630552,Jalen Johnson,2021,ambiguous_ncaa_name,not_matched,5,,,,,,,False,False
+1630553,Keon Johnson,2021,matched,normalized_name,1,4432192.0,Keon Johnson,2021,Tennessee Volunteers,1.0,27.0,True,True
+1630554,Jason Preston,2021,matched,normalized_name,1,4397916.0,Jason Preston,2021,Ohio Bobcats,1.0,20.0,True,True
+1630556,Kessler Edwards,2021,matched,normalized_name,1,4397693.0,Kessler Edwards,2021,Pepperdine Waves,1.0,27.0,True,True
+1630557,Corey Kispert,2021,matched,normalized_name,1,4280151.0,Corey Kispert,2021,Gonzaga Bulldogs,1.0,32.0,True,True
+1630558,Davion Mitchell,2021,matched,normalized_name,1,4278053.0,Davion Mitchell,2021,Baylor Bears,1.0,30.0,True,True
+1630559,Austin Reaves,2021,matched,normalized_name,1,4066457.0,Austin Reaves,2021,Oklahoma Sooners,1.0,25.0,True,True
+1630560,Cam Thomas,2021,matched,normalized_name,1,4432174.0,Cam Thomas,2021,LSU Tigers,1.0,29.0,True,True
+1630561,David Duke Jr.,2021,matched,normalized_name,1,4397107.0,David Duke Jr.,2021,Providence Friars,1.0,26.0,True,True
+1630562,Matt Hurt,2021,matched,explicit_alias,1,4431673.0,Matthew Hurt,2021,Duke Blue Devils,1.0,24.0,True,True
+1630563,Joshua Primo,2021,matched,normalized_name,1,4702176.0,Joshua Primo,2021,Alabama Crimson Tide,1.0,30.0,True,True
+1630564,RaiQuan Gray,2021,matched,normalized_name,1,4277850.0,RaiQuan Gray,2021,Florida State Seminoles,1.0,25.0,True,True
+1630565,Aaron Henry,2021,matched,normalized_name,1,4397209.0,Aaron Henry,2021,Michigan State Spartans,1.0,28.0,True,True
+1630567,Scottie Barnes,2021,matched,normalized_name,1,4433134.0,Scottie Barnes,2021,Florida State Seminoles,1.0,24.0,True,True
+1630568,Luka Garza,2021,matched,normalized_name,1,4277951.0,Luka Garza,2021,Iowa Hawkeyes,1.0,31.0,True,True
+1630570,Trendon Watford,2021,matched,normalized_name,1,4431675.0,Trendon Watford,2021,LSU Tigers,1.0,28.0,True,True
+1630572,Sandro Mamukelashvili,2021,matched,normalized_name,1,4278580.0,Sandro Mamukelashvili,2021,Seton Hall Pirates,1.0,27.0,True,True
+1630573,Sam Hauser,2021,matched,normalized_name,1,4065804.0,Sam Hauser,2021,Virginia Cavaliers,1.0,25.0,True,True
+1630575,Scottie Lewis,2021,matched,normalized_name,1,4432812.0,Scottie Lewis,2021,Florida Gators,1.0,21.0,True,True
+1630577,Julian Champagnie,2021,matched,normalized_name,1,4592479.0,Julian Champagnie,2021,St. John's Red Storm,1.0,25.0,True,True
+1630579,Jericho Sims,2021,matched,normalized_name,1,4277922.0,Jericho Sims,2021,Texas Longhorns,1.0,26.0,True,True
+1630580,Joe Wieskamp,2021,matched,normalized_name,1,4397033.0,Joe Wieskamp,2021,Iowa Hawkeyes,1.0,31.0,True,True
+1630582,Yves Pons,2021,matched,normalized_name,1,4278116.0,Yves Pons,2021,Tennessee Volunteers,1.0,26.0,True,True
+1630587,Isaiah Livers,2021,matched,normalized_name,1,4277957.0,Isaiah Livers,2021,Michigan Wolverines,1.0,23.0,True,True
+1630589,Moses Wright,2021,matched,normalized_name,1,4277871.0,Moses Wright,2021,Georgia Tech Yellow Jackets,1.0,25.0,True,True
+1630590,Scotty Pippen Jr.,2022,matched,normalized_name,1,4431785.0,Scotty Pippen Jr.,2022,Vanderbilt Commodores,1.0,36.0,True,True
+1630592,Jalen Wilson,2022,matched,normalized_name,1,4431714.0,Jalen Wilson,2022,Kansas Jayhawks,1.0,37.0,True,True
+1630593,McKinley Wright IV,2021,matched,normalized_name,1,4278507.0,McKinley Wright IV,2021,Colorado Buffaloes,1.0,32.0,True,True
+1630595,Cade Cunningham,2021,matched,normalized_name,1,4432166.0,Cade Cunningham,2021,Oklahoma State Cowboys,1.0,27.0,True,True
+1630596,Evan Mobley,2021,matched,normalized_name,1,4432158.0,Evan Mobley,2021,USC Trojans,1.0,33.0,True,True
+1630598,Aaron Wiggins,2021,matched,normalized_name,1,4397183.0,Aaron Wiggins,2021,Maryland Terrapins,1.0,31.0,True,True
+1630600,Isaiah Mobley,2021,matched,normalized_name,1,4432815.0,Isaiah Mobley,2021,USC Trojans,1.0,32.0,True,True
+1630604,E.J. Liddell,2022,matched,normalized_name,1,4432821.0,E.J. Liddell,2022,Ohio State Buckeyes,1.0,32.0,True,True
+1630613,Duane Washington Jr.,2021,matched,normalized_name,1,4397235.0,Duane Washington Jr.,2021,Ohio State Buckeyes,1.0,31.0,True,True
+1630620,Darius Days,2022,matched,normalized_name,1,4396978.0,Darius Days,2022,LSU Tigers,1.0,33.0,True,True
+1630637,Carlik Jones,2021,matched,normalized_name,1,4067735.0,Carlik Jones,2021,Louisville Cardinals,1.0,19.0,True,True
+1630639,AJ Lawson,2021,conflicting_ncaa_teams,not_matched,1,4067017.0,A.J. Lawson,2021,McNeese Cowboys / South Carolina Gamecocks,2.0,44.0,False,False
+1630699,MarJon Beauchamp,2022,unmatched,not_matched,0,,,,,,,True,False
+1630700,Dyson Daniels,2022,unmatched,not_matched,0,,,,,,,True,False
+1630701,Michael Foster Jr.,2022,unmatched,not_matched,0,,,,,,,True,False
+1630702,Jaden Hardy,2022,unmatched,not_matched,0,,,,,,,True,False
+1631093,Jaden Ivey,2022,matched,normalized_name,1,4433218.0,Jaden Ivey,2022,Purdue Boilermakers,1.0,36.0,True,True
+1631094,Paolo Banchero,2022,matched,normalized_name,1,4432573.0,Paolo Banchero,2022,Duke Blue Devils,1.0,39.0,True,True
+1631095,Jabari Smith,2022,matched,normalized_name,1,4432639.0,Jabari Smith Jr.,2022,Auburn Tigers,1.0,34.0,True,True
+1631096,Chet Holmgren,2022,matched,normalized_name,1,4433255.0,Chet Holmgren,2022,Gonzaga Bulldogs,1.0,32.0,True,True
+1631097,Bennedict Mathurin,2022,matched,normalized_name,1,4683634.0,Bennedict Mathurin,2022,Arizona Wildcats,1.0,37.0,True,True
+1631098,Johnny Davis,2022,matched,normalized_name,1,4432356.0,Johnny Davis,2022,Wisconsin Badgers,1.0,31.0,True,True
+1631099,Keegan Murray,2022,matched,normalized_name,1,4594327.0,Keegan Murray,2022,Iowa Hawkeyes,1.0,35.0,True,True
+1631100,AJ Griffin,2022,matched,normalized_name,1,4432585.0,AJ Griffin,2022,Duke Blue Devils,1.0,39.0,True,True
+1631101,Shaedon Sharpe,2022,unmatched,not_matched,0,,,,,,,True,False
+1631102,TyTy Washington Jr.,2022,matched,normalized_name,1,4683749.0,TyTy Washington Jr.,2022,Kentucky Wildcats,1.0,31.0,True,True
+1631103,Malaki Branham,2022,matched,normalized_name,1,4565201.0,Malaki Branham,2022,Ohio State Buckeyes,1.0,32.0,True,True
+1631104,Blake Wesley,2022,matched,normalized_name,1,4683935.0,Blake Wesley,2022,Notre Dame Fighting Irish,1.0,35.0,True,True
+1631105,Jalen Duren,2022,matched,normalized_name,1,4433621.0,Jalen Duren,2022,Memphis Tigers,1.0,29.0,True,True
+1631106,Tari Eason,2022,matched,normalized_name,1,4433192.0,Tari Eason,2022,LSU Tigers,1.0,33.0,True,True
+1631107,Nikola Jovic,2022,unmatched,not_matched,0,,,,,,,True,False
+1631108,Max Christie,2022,matched,normalized_name,1,4432582.0,Max Christie,2022,Michigan State Spartans,1.0,35.0,True,True
+1631109,Mark Williams,2022,matched,normalized_name,1,4701232.0,Mark Williams,2022,Duke Blue Devils,1.0,39.0,True,True
+1631110,Jeremy Sochan,2022,matched,normalized_name,1,4610139.0,Jeremy Sochan,2022,Baylor Bears,1.0,30.0,True,True
+1631111,Wendell Moore,2022,matched,normalized_name,1,4592187.0,Wendell Moore Jr.,2022,Duke Blue Devils,1.0,39.0,True,True
+1631112,Kendall Brown,2022,matched,normalized_name,1,4433254.0,Kendall Brown,2022,Baylor Bears,1.0,34.0,True,True
+1631113,Kennedy Chandler,2022,matched,normalized_name,1,4432646.0,Kennedy Chandler,2022,Tennessee Volunteers,1.0,34.0,True,True
+1631114,Jalen Williams,2022,ambiguous_ncaa_name,not_matched,2,,,,,,,False,False
+1631115,Orlando Robinson,2022,matched,normalized_name,1,4593049.0,Orlando Robinson,2022,Fresno State Bulldogs,1.0,36.0,True,True
+1631116,Patrick Baldwin Jr.,2022,matched,normalized_name,1,4433246.0,Patrick Baldwin Jr.,2022,Milwaukee Panthers,1.0,11.0,True,True
+1631117,Walker Kessler,2022,matched,normalized_name,1,4433136.0,Walker Kessler,2022,Auburn Tigers,1.0,34.0,True,True
+1631119,Jaylin Williams,2022,ambiguous_ncaa_name,not_matched,2,,,,,,,False,False
+1631120,JD Davison,2022,matched,normalized_name,1,4576085.0,JD Davison,2022,Alabama Crimson Tide,1.0,33.0,True,True
+1631121,Bryce McGowens,2022,matched,normalized_name,1,4576086.0,Bryce McGowens,2022,Nebraska Cornhuskers,1.0,31.0,True,True
+1631124,Julian Strawther,2022,matched,normalized_name,1,4432181.0,Julian Strawther,2022,Gonzaga Bulldogs,1.0,32.0,True,True
+1631127,Harrison Ingram,2022,matched,normalized_name,1,4433618.0,Harrison Ingram,2022,Stanford Cardinal,1.0,32.0,True,True
+1631128,Christian Braun,2022,matched,normalized_name,1,4431767.0,Christian Braun,2022,Kansas Jayhawks,1.0,40.0,True,True
+1631132,Christian Koloko,2022,matched,normalized_name,1,4431778.0,Christian Koloko,2022,Arizona Wildcats,1.0,37.0,True,True
+1631133,Jabari Walker,2022,matched,normalized_name,1,4432446.0,Jabari Walker,2022,Colorado Buffaloes,1.0,33.0,True,True
+1631157,Ryan Rollins,2022,matched,normalized_name,1,4591725.0,Ryan Rollins,2022,Toledo Rockets,1.0,34.0,True,True
+1631159,Leonard Miller,2022,unmatched,not_matched,0,,,,,,,True,False
+1631165,Keon Ellis,2022,matched,normalized_name,1,4702177.0,Keon Ellis,2022,Alabama Crimson Tide,1.0,33.0,True,True
+1631166,Drew Timme,2022,matched,normalized_name,1,4431695.0,Drew Timme,2022,Gonzaga Bulldogs,1.0,32.0,True,True
+1631172,Ousmane Dieng,2022,unmatched,not_matched,0,,,,,,,True,False
+1631173,Terquavion Smith,2022,matched,normalized_name,1,4683940.0,Terquavion Smith,2022,NC State Wolfpack,1.0,32.0,True,True
+1631197,Jared Rhoden,2022,matched,normalized_name,1,4397119.0,Jared Rhoden,2022,Seton Hall Pirates,1.0,31.0,True,True
+1631199,Ron Harper Jr.,2022,matched,normalized_name,1,4397251.0,Ron Harper Jr.,2022,Rutgers Scarlet Knights,1.0,32.0,True,True
+1631204,Marcus Sasser,2022,matched,normalized_name,1,4432107.0,Marcus Sasser,2022,Houston Cougars,1.0,12.0,True,True
+1631207,Dalen Terry,2022,matched,normalized_name,1,4433159.0,Dalen Terry,2022,Arizona Wildcats,1.0,37.0,True,True
+1631211,Trevor Keels,2022,matched,normalized_name,1,4432645.0,Trevor Keels,2022,Duke Blue Devils,1.0,36.0,True,True
+1631212,Peyton Watson,2022,matched,normalized_name,1,4576087.0,Peyton Watson,2022,UCLA Bruins,1.0,32.0,True,True
+1631213,Tyrese Martin,2022,matched,normalized_name,1,4397179.0,Tyrese Martin,2022,UConn Huskies,1.0,29.0,True,True
+1631214,Alondes Williams,2022,matched,normalized_name,1,4592216.0,Alondes Williams,2022,Wake Forest Demon Deacons,1.0,35.0,True,True
+1631217,Moussa Diabate,2022,matched,normalized_name,1,4433249.0,Moussa Diabate,2022,Michigan Wolverines,1.0,32.0,True,True
+1631218,Trayce Jackson-Davis,2022,matched,normalized_name,1,4431684.0,Trayce Jackson-Davis,2022,Indiana Hoosiers,1.0,35.0,True,True
+1631219,John Butler Jr.,2022,matched,normalized_name,1,4432588.0,John Butler Jr.,2022,Florida State Seminoles,1.0,31.0,True,True
+1631220,Dereon Seabron,2022,matched,normalized_name,1,4431811.0,Dereon Seabron,2022,NC State Wolfpack,1.0,32.0,True,True
+1631221,Collin Gillespie,2022,matched,normalized_name,1,4278585.0,Collin Gillespie,2022,Villanova Wildcats,1.0,38.0,True,True
+1631222,Jake LaRavia,2022,matched,normalized_name,1,4592691.0,Jake LaRavia,2022,Wake Forest Demon Deacons,1.0,33.0,True,True
+1631223,David Roddy,2022,matched,normalized_name,1,4593041.0,David Roddy,2022,Colorado State Rams,1.0,31.0,True,True
+1631230,Dominick Barlow,2022,unmatched,not_matched,0,,,,,,,True,False
+1631254,Kenneth Lofton Jr.,2022,matched,normalized_name,1,4585610.0,Kenneth Lofton Jr.,2022,Louisiana Tech Bulldogs,1.0,33.0,True,True

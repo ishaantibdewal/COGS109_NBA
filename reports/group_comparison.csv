@@ -1,0 +1,4 @@
+model,train_n,test_n,test_mse,test_r2,formula,max_vif
+combined,616,154,17.219983164104576,0.084209989760643,"ppg_3yr ~ ncaa_ppg + ncaa_fg_pct + wingspan_in + vertical_max_in + C(position_group, Treatment(reference=""Guard""))",2.3891050154644327
+ncaa,616,154,17.405404904467453,0.0743489245152667,"ppg_3yr ~ ncaa_ppg + ncaa_apg + ncaa_fg_pct + C(position_group, Treatment(reference=""Guard""))",1.8946082419952783
+combine,616,154,17.977644799987722,0.0439161665512362,"ppg_3yr ~ height_in + wingspan_in + vertical_max_in + C(position_group, Treatment(reference=""Guard""))",4.606026950881775

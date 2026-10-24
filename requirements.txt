@@ -1,7 +1,8 @@
-nba_api
-pandas
-numpy
-matplotlib
-statsmodels
-scikit-learn
-ipykernel
+pandas>=2.0
+numpy>=1.24
+pyarrow>=12
+requests>=2.30
+matplotlib>=3.7
+scikit-learn>=1.2
+statsmodels>=0.14
+scipy>=1.10
