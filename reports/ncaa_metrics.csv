@@ -1,2 +1,2 @@
 model,train_n,test_n,test_mse,test_r2,formula,max_vif
-ncaa,616,154,17.405404904467453,0.07434892451526676,"ppg_3yr ~ ncaa_ppg + ncaa_apg + ncaa_fg_pct + C(position_group, Treatment(reference=""Guard""))",1.8946082419952786
+ncaa,616,154,17.405404904467453,0.07434892451526676,"ppg_3yr ~ ncaa_ppg + ncaa_apg + ncaa_fg_pct + C(position_group, Treatment(reference=""Guard""))",1.894608241995278
