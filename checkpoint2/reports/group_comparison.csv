@@ -1,0 +1,14 @@
+,Thomas Ton,Riley Ramos,Ishaan Tibdewal,Baseline
+method,Forward stepwise selection,Elastic net logistic regression,Lasso logistic regression,Always predict majority
+n_predictors,11,23,3,0
+cv_error,0.411,0.433,0.429,
+aic,825.573,842.893,836.68,
+bic,878.652,949.051,854.373,
+accuracy,0.636,0.649,0.623,0.5
+auc,0.666,0.689,0.659,0.5
+precision,0.648,0.653,0.651,
+recall,0.597,0.636,0.532,
+tp,46,49,41,
+fp,25,26,22,
+tn,52,51,55,
+fn,31,28,36,

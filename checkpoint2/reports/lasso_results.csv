@@ -1,0 +1,2 @@
+member,method,n_predictors,predictors,cv_error,aic,bic,accuracy,auc,precision,recall,tp,fp,tn,fn,baseline
+Ishaan Tibdewal,Lasso logistic regression,3,"agility_sec, ncaa_ppg, skipped_drills",0.4285470757933386,836.6801948372618,854.3731826913959,0.6233766233766234,0.6586270871985157,0.6507936507936508,0.5324675324675324,41,22,55,36,0.5

@@ -1,0 +1,2 @@
+member,method,n_predictors,predictors,cv_error,aic,bic,accuracy,auc,precision,recall,tp,fp,tn,fn,baseline
+Thomas Ton,Forward stepwise selection,11,"skipped_drills, agility_sec, ncaa_ppg, height_in, wingspan_in, sprint_sec, bench_reps, ncaa_3p_pct, ncaa_spg, weight_lb, body_fat_pct",0.4107395751376869,825.5734550263384,878.6524185887406,0.6363636363636364,0.6655422499578344,0.647887323943662,0.5974025974025974,46,25,52,31,0.5

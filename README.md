@@ -2,13 +2,24 @@
 
 **Research question:** How much do NCAA performance statistics improve prediction of NBA PPG beyond pre-draft NBA combine measurements?
 
+## Folder layout
+
+```
+00_build_dataset.ipynb   builds data/ (run once; shared by both checkpoints)
+data/  output/           shared data
+checkpoint1/             CP1: linear regression notebooks 01-04, Ishaan's CP1 notebook, slides, reports/
+checkpoint2/             CP2: logistic regression notebooks, CP2 instructions PDF, reports/
+```
+
+Notebooks in `checkpoint1/` and `checkpoint2/` read `../data/` and write to their own `reports/` folder, so open them from their own folder (Jupyter's default).
+
 ## Run order
 
 1. Install requirements: `pip install -r requirements.txt` (or run first notebook's install cell).
-2. Open **`00_build_dataset.ipynb`** **once** in the folder containing these notebooks. If you clone `ishaantibdewal/COGS109_NBA`, move these notebooks to its root or copy its `output/nba_early_career_ppg.csv` into the matching path.
+2. Open **`00_build_dataset.ipynb`** **once** from the project root. If you clone `ishaantibdewal/COGS109_NBA`, copy its `output/nba_early_career_ppg.csv` into `output/`.
 3. The builder reuses existing NBA data, downloads missing ESPN college player-game Parquet files (2005–2022), then rebuilds `data/predraft_features.csv`, `data/nba_outcomes.csv`, and `data/ncaa_match_audit.csv`. Rerun it after changing matching rules. Existing source files are cached, so subsequent runs rebuild locally without downloading them again.
-4. Members run the three independent notebooks, in any order, using **only the two locally saved CSVs**. Each writes coefficient estimates, held-out MSE/R², and diagnostics to `reports/`.
-5. Run `04_group_comparison.ipynb`. No model notebook calls an API.
+4. Checkpoint 1: run `checkpoint1/01`–`03` in any order, then `04_group_comparison.ipynb`.
+5. Checkpoint 2: run the three `checkpoint2/CP2_*` member notebooks in any order, then `CP2_group_comparison.ipynb`. No model notebook calls an API.
 
 ### Sources
 - NBA Stats combine & league player totals: [nba_api combine](https://github.com/swar/nba_api/blob/master/docs/nba_api/stats/endpoints/draftcombinestats.md), [nba_api league stats](https://github.com/swar/nba_api/blob/master/docs/nba_api/stats/endpoints/leaguedashplayerstats.md). Already aggregated and cached in your [existing repo](https://github.com/ishaantibdewal/COGS109_NBA/blob/main/output/nba_early_career_ppg.csv).
@@ -41,3 +52,15 @@ Matching relies on normalized player name, explicit aliases and combine year rat
 Use the shared 80/20 split and test MSE and R²; include one equation per member, a quantitative and qualitative coefficient interpretation, all five assumption checks, and one attempted fix if an assumption is violated. Each member explains their notebook in the recorded presentation.
 
 **Clarification:** "one API call" here means **one data preparation run**. The first build necessarily requests an NBA CSV if absent and one NCAA file per season. After that, no downloads/API calls are made to run the models.
+
+### Checkpoint 2
+Binary outcome: 1 if `ppg_3yr` is above the **training-set median (5.65 PPG)**, else 0 (50/50 class balance). Everyone keeps the CP1 split (616/154, seed 42), uses the same **5-fold stratified CV folds on the training set (seed 42)**, and starts from the same **24 predictors**: 10 combine measurements, 11 NCAA stats, `skipped_drills` (1 = no agility, sprint or vertical result; top prospects often skip drills) and position dummies (baseline Guard). Missing values are filled with the training median. CV error = misclassification rate at a 0.5 cutoff.
+
+| Notebook (`checkpoint2/`) | Member | Method |
+|---|---|---|
+| `CP2_Thomas_Ton_forward.ipynb` | Thomas Ton | Forward stepwise |
+| `CP2_Riley_Ramos_elasticnet.ipynb` | Riley Ramos | Elastic net (CV picks mix and λ) |
+| `CP2_Ishaan_Tibdewal_lasso.ipynb` | Ishaan Tibdewal | Lasso (1-SE rule) |
+| `CP2_group_comparison.ipynb` | group | Comparison table + baseline, ROC curves, kept predictors |
+
+Each member notebook saves `reports/{method}_results.csv`, `{method}_roc.csv` and plots. Cells marked **TODO** are for each member's own interpretation.
